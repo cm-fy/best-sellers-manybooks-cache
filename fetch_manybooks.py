@@ -356,8 +356,10 @@ def fetch_book_details(books, playwright_ctx=None, delay_range=(2.0, 5.0), max_b
     """
     if not books:
         return books
-    if max_books is not None:
-        books = books[:max_books]
+    # Cap how many detail pages we CRAWL, but never truncate the returned list
+    # (the caller writes it to cache — truncating would lose books).  We crawl
+    # at most ``max_books`` and leave the rest untouched.
+    crawl_books = books if max_books is None else books[:max_books]
 
     import asyncio
     import random
@@ -365,7 +367,7 @@ def fetch_book_details(books, playwright_ctx=None, delay_range=(2.0, 5.0), max_b
     from playwright.async_api import async_playwright
 
     async def _run(ctx):
-        for book in books:
+        for book in crawl_books:
             src = book.get('source_url', '')
             if not src:
                 continue
