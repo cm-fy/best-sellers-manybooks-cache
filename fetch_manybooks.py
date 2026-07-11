@@ -348,53 +348,66 @@ def fetch_book_details(books, playwright_ctx=None, delay_range=(2.0, 5.0), max_b
         job can never crawl the entire catalogue in one sitting;
       * never raises — failures simply leave the field empty and move on.
 
-    ``playwright_ctx`` lets the caller pass an already-open context (recommended
-    so the Cloudflare clearance cookie is reused across pages).
+    Uses the **Async API** (not Sync) because the Sync API raises
+    "Sync API inside asyncio loop" in some CI environments.  ``playwright_ctx``
+    lets the caller pass an already-open async context; otherwise one is created
+    and torn down here.  A private event loop is used so the function works both
+    when called from sync ``main()`` and from an existing asyncio context.
     """
     if not books:
         return books
     if max_books is not None:
         books = books[:max_books]
-    own_ctx = False
-    try:
-        from playwright.sync_api import sync_playwright
-        if playwright_ctx is None:
-            pw = sync_playwright().start()
-            browser = pw.chromium.launch(headless=True)
-            playwright_ctx = browser.new_context(user_agent=HEADERS['User-Agent'])
-            own_ctx = True
+
+    import asyncio
+    import random
+    from playwright.async_api import async_playwright
+
+    async def _run(ctx):
         for book in books:
             src = book.get('source_url', '')
             if not src:
                 continue
             try:
-                page = playwright_ctx.new_page()
-                page.goto(src, timeout=60000, wait_until='domcontentloaded')
-                page.wait_for_timeout(2500)
-                detail = _extract_detail(page.content())
+                page = await ctx.new_page()
+                await page.goto(src, timeout=60000, wait_until='domcontentloaded')
+                await page.wait_for_timeout(2500)
+                detail = _extract_detail(await page.content())
                 for k, v in detail.items():
                     if v not in (None, ''):
                         book[k] = v
-                page.close()
+                await page.close()
             except Exception:
                 # Leave fields empty on failure; never abort the whole run.
                 pass
             # Randomised, human-paced delay between detail requests.
             lo, hi = delay_range
-            time.sleep(lo + (hi - lo) * __import__('random').random())
+            await asyncio.sleep(lo + (hi - lo) * random.random())
         return books
+
+    async def _run_owned():
+        async with async_playwright() as p:
+            browser = await p.chromium.launch(headless=True)
+            ctx = await browser.new_context(user_agent=HEADERS['User-Agent'])
+            try:
+                return await _run(ctx)
+            finally:
+                await browser.close()
+
+    try:
+        if playwright_ctx is not None:
+            # Caller owns the context; run inside their loop if present.
+            try:
+                loop = asyncio.get_running_loop()
+            except RuntimeError:
+                loop = None
+            if loop is not None:
+                return loop.run_until_complete(_run(playwright_ctx))
+            return asyncio.run(_run(playwright_ctx))
+        else:
+            return asyncio.run(_run_owned())
     except Exception:
         return books
-    finally:
-        if own_ctx:
-            try:
-                playwright_ctx.browser.close()
-            except Exception:
-                pass
-            try:
-                playwright_ctx._impl_obj._browser._browser._channel.connection.stop()
-            except Exception:
-                pass
 
 
 def fetch_category(slug, code, sort_by_downloads=False, cover_dir='', cover_base_url=''):
@@ -433,26 +446,16 @@ def main():
     # fetch_book_details) and should be run from a warmed browser session, never
     # on every scheduled run, to avoid tripping ManyBooks' anti-scraping defences.
     enrich_details = os.environ.get('MB_DETAILS', '') in ('1', 'true', 'yes')
-    detail_ctx = None
     if enrich_details:
-        try:
-            from playwright.sync_api import sync_playwright
-            pw = sync_playwright().start()
-            browser = pw.chromium.launch(headless=True)
-            detail_ctx = browser.new_context(user_agent=HEADERS['User-Agent'])
-            print('Detail enrichment ENABLED (MB_DETAILS=1) — throttled, one context reused.')
-        except Exception as e:
-            print('Detail enrichment requested but Playwright unavailable ({}): skipping.'.format(e))
-            detail_ctx = None
+        print('Detail enrichment ENABLED (MB_DETAILS=1) — throttled, Playwright Async API.')
 
     for slug, label, code in CATEGORIES:
         books, err = fetch_category(slug, code, sort_by_downloads=False,
                                     cover_dir=cover_dir, cover_base_url=cover_base_url)
-        if enrich_details and detail_ctx is not None and books:
+        if enrich_details and books:
             # Cap detail crawls per category so a single run stays polite.
             max_details = int(os.environ.get('MB_DETAILS_MAX', '50'))
-            books = fetch_book_details(books, playwright_ctx=detail_ctx,
-                                       max_books=max_details)
+            books = fetch_book_details(books, max_books=max_details)
         path = os.path.join(out_dir, slug + '.json')
         # Defensive: never overwrite a previously-populated cache file with an
         # empty result (e.g. when Cloudflare blocks the fetch or Playwright
@@ -477,9 +480,8 @@ def main():
         if code == 'NON':
             books_d, err_d = fetch_category(slug, code, sort_by_downloads=True,
                                             cover_dir=cover_dir, cover_base_url=cover_base_url)
-            if enrich_details and detail_ctx is not None and books_d:
-                books_d = fetch_book_details(books_d, playwright_ctx=detail_ctx,
-                                             max_books=max_details)
+            if enrich_details and books_d:
+                books_d = fetch_book_details(books_d, max_books=max_details)
             path_d = os.path.join(out_dir, slug + '_downloads.json')
             # Same defensive guard for the downloads-sorted file.
             if not books_d and os.path.exists(path_d) and os.path.getsize(path_d) > 2:
@@ -499,11 +501,6 @@ def main():
         print('{}: {} books{}'.format(slug, len(books), ('  ERR: ' + err) if err else ''))
         time.sleep(1)
 
-    if detail_ctx is not None:
-        try:
-            detail_ctx.browser.close()
-        except Exception:
-            pass
     with open(os.path.join(out_dir, 'meta.json'), 'w', encoding='utf-8') as f:
         json.dump(meta, f, indent=2, ensure_ascii=False)
     print('Wrote meta.json with {} lists'.format(len(meta['lists'])))
