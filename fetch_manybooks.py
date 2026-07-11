@@ -185,14 +185,17 @@ def _extract_books(html, source_url, cover_dir='', cover_base_url=''):
     if not nodes:
         nodes = root.xpath('//article[contains(concat(" ", normalize-space(@class), " "), " book ")]')
     for node in nodes:
-        # Prefer the title inside .content (the hover duplicate is ignored).
+        # Prefer the title inside .content, but exclude the hover duplicate
+        # (book-hover-content) which otherwise repeats the same title text.
         title_node = node.xpath(
             './/div[contains(concat(" ", normalize-space(@class), " "), " content ")]'
             '//div[contains(concat(" ", normalize-space(@class), " "), " field--name-field-title ")]'
+            '[not(ancestor::div[contains(concat(" ", normalize-space(@class), " "), " book-hover-content ")])]'
             '//a/text()')
         if not title_node:
             title_node = node.xpath(
                 './/div[contains(concat(" ", normalize-space(@class), " "), " field--name-field-title ")]'
+                '[not(ancestor::div[contains(concat(" ", normalize-space(@class), " "), " book-hover-content ")])]'
                 '//a/text()')
         if not title_node:
             title_node = node.xpath('.//a[@hreflang]/text()')
@@ -203,6 +206,10 @@ def _extract_books(html, source_url, cover_dir='', cover_base_url=''):
             if t and t not in seen:
                 seen.append(t)
         title = ' '.join(seen).strip()
+        # Collapse any residual whole-title repetition (e.g. "X X").
+        _half = len(title) // 2
+        if _half and title[:_half].strip() and title[:_half].strip() == title[_half:].strip():
+            title = title[:_half].strip()
         hrefs = node.xpath('.//a[contains(@href, "/titles/")]/@href')
         book_url = hrefs[0] if hrefs else ''
         if book_url and not book_url.startswith('http'):
@@ -271,6 +278,115 @@ def _cache_cover(cover_url, title, cover_dir, cover_base_url):
         return cover_url
 
 
+def _extract_detail(html):
+    """Parse a ManyBooks book detail page (https://manybooks.net/titles/…) for
+    the enrichment fields the plugin surfaces on its cards.
+
+    Returns a dict with: blurb, excerpt, published (year as int or ''),
+    pages (int or ''), downloads (int or '').  Any field not found is left
+    empty so callers can fall back gracefully.
+    """
+    try:
+        from lxml import html as lxml_html
+        root = lxml_html.fromstring((html or '').encode('utf-8'))
+    except Exception:
+        return {'blurb': '', 'excerpt': '', 'published': '', 'pages': '', 'downloads': ''}
+
+    def _field_text(field_class):
+        # The field block's own element carries both field--name-<x> and
+        # field--item classes, so the value is the node's own text_content()
+        # (there is no separate descendant field--item element).
+        nodes = root.xpath(
+            '//div[contains(concat(" ", normalize-space(@class), " "), " field--name-{0} ")]'.format(field_class))
+        if not nodes:
+            return ''
+        txt = ' '.join((nodes[0].text_content() or '').split())
+        return txt.strip()
+
+    def _int(text):
+        digits = re.sub(r'[^\d]', '', text or '')
+        return int(digits) if digits else ''
+
+    blurb = _field_text('field-description')
+    excerpt = _field_text('field-excerpt')
+    published = _int(_field_text('field-published-year'))
+    pages = _int(_field_text('field-pages'))
+    downloads = _int(_field_text('field-downloads'))
+    return {
+        'blurb': blurb,
+        'excerpt': excerpt,
+        'published': published,
+        'pages': pages,
+        'downloads': downloads,
+    }
+
+
+def fetch_book_details(books, playwright_ctx=None, delay_range=(2.0, 5.0), max_books=None):
+    """Enrich each book dict with detail-page fields (blurb, excerpt, published,
+    pages, downloads).
+
+    This is intentionally OFF by default and only invoked when MB_DETAILS=1 is
+    set, because it opens every book's detail page — a large number of requests
+    that would otherwise look like a scraping/DoS burst to ManyBooks' Cloudflare
+    front-end.  When run, it is deliberately polite:
+
+      * reuses a single Playwright browser context (one browser launch, not one
+        per book);
+      * waits for the page to settle and honours a randomised inter-request
+        delay (``delay_range``) so traffic is human-paced;
+      * caps the number of detail pages per run via ``max_books`` so a single
+        job can never crawl the entire catalogue in one sitting;
+      * never raises — failures simply leave the field empty and move on.
+
+    ``playwright_ctx`` lets the caller pass an already-open context (recommended
+    so the Cloudflare clearance cookie is reused across pages).
+    """
+    if not books:
+        return books
+    if max_books is not None:
+        books = books[:max_books]
+    own_ctx = False
+    try:
+        from playwright.sync_api import sync_playwright
+        if playwright_ctx is None:
+            pw = sync_playwright().start()
+            browser = pw.chromium.launch(headless=True)
+            playwright_ctx = browser.new_context(user_agent=HEADERS['User-Agent'])
+            own_ctx = True
+        for book in books:
+            src = book.get('source_url', '')
+            if not src:
+                continue
+            try:
+                page = playwright_ctx.new_page()
+                page.goto(src, timeout=60000, wait_until='domcontentloaded')
+                page.wait_for_timeout(2500)
+                detail = _extract_detail(page.content())
+                for k, v in detail.items():
+                    if v not in (None, ''):
+                        book[k] = v
+                page.close()
+            except Exception:
+                # Leave fields empty on failure; never abort the whole run.
+                pass
+            # Randomised, human-paced delay between detail requests.
+            lo, hi = delay_range
+            time.sleep(lo + (hi - lo) * __import__('random').random())
+        return books
+    except Exception:
+        return books
+    finally:
+        if own_ctx:
+            try:
+                playwright_ctx.browser.close()
+            except Exception:
+                pass
+            try:
+                playwright_ctx._impl_obj._browser._browser._channel.connection.stop()
+            except Exception:
+                pass
+
+
 def fetch_category(slug, code, sort_by_downloads=False, cover_dir='', cover_base_url=''):
     url = BASE_URL + 'categories/' + code
     if sort_by_downloads:
@@ -293,16 +409,40 @@ def main():
     cover_dir = os.path.join(out_dir, 'covers')
     pages_base = os.environ.get(
         'PAGES_BASE_URL',
-        'https://cfmazur.github.io/best-sellers-manybooks-cache')
+        'https://cm-fy.github.io/best-sellers-manybooks-cache')
     cover_base_url = pages_base.rstrip('/') + '/mb/covers'
     meta = {
         'generated_at': datetime.now(timezone.utc).isoformat(),
         'source': 'https://manybooks.net/categories',
         'lists': [],
     }
+    # Opt-in detail enrichment.  Disabled by default so the weekly CI job only
+    # mirrors the category lists (cheap, one request per category).  Set
+    # MB_DETAILS=1 to also crawl each book's detail page for blurb/excerpt/
+    # published/pages/downloads.  This is deliberately throttled (see
+    # fetch_book_details) and should be run from a warmed browser session, never
+    # on every scheduled run, to avoid tripping ManyBooks' anti-scraping defences.
+    enrich_details = os.environ.get('MB_DETAILS', '') in ('1', 'true', 'yes')
+    detail_ctx = None
+    if enrich_details:
+        try:
+            from playwright.sync_api import sync_playwright
+            pw = sync_playwright().start()
+            browser = pw.chromium.launch(headless=True)
+            detail_ctx = browser.new_context(user_agent=HEADERS['User-Agent'])
+            print('Detail enrichment ENABLED (MB_DETAILS=1) — throttled, one context reused.')
+        except Exception as e:
+            print('Detail enrichment requested but Playwright unavailable: {}'.format(e))
+            detail_ctx = None
+
     for slug, label, code in CATEGORIES:
         books, err = fetch_category(slug, code, sort_by_downloads=False,
                                     cover_dir=cover_dir, cover_base_url=cover_base_url)
+        if enrich_details and detail_ctx is not None and books:
+            # Cap detail crawls per category so a single run stays polite.
+            max_details = int(os.environ.get('MB_DETAILS_MAX', '50'))
+            books = fetch_book_details(books, playwright_ctx=detail_ctx,
+                                       max_books=max_details)
         path = os.path.join(out_dir, slug + '.json')
         with open(path, 'w', encoding='utf-8') as f:
             json.dump(books, f, indent=2, ensure_ascii=False)
@@ -315,6 +455,9 @@ def main():
         if code == 'NON':
             books_d, err_d = fetch_category(slug, code, sort_by_downloads=True,
                                             cover_dir=cover_dir, cover_base_url=cover_base_url)
+            if enrich_details and detail_ctx is not None and books_d:
+                books_d = fetch_book_details(books_d, playwright_ctx=detail_ctx,
+                                             max_books=max_details)
             path_d = os.path.join(out_dir, slug + '_downloads.json')
             with open(path_d, 'w', encoding='utf-8') as f:
                 json.dump(books_d, f, indent=2, ensure_ascii=False)
@@ -325,6 +468,12 @@ def main():
             })
         print('{}: {} books{}'.format(slug, len(books), ('  ERR: ' + err) if err else ''))
         time.sleep(1)
+
+    if detail_ctx is not None:
+        try:
+            detail_ctx.browser.close()
+        except Exception:
+            pass
     with open(os.path.join(out_dir, 'meta.json'), 'w', encoding='utf-8') as f:
         json.dump(meta, f, indent=2, ensure_ascii=False)
     print('Wrote meta.json with {} lists'.format(len(meta['lists'])))
