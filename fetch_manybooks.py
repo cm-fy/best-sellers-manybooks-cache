@@ -132,11 +132,21 @@ def _decode_html(text):
 def _session():
     """Return an HTTP session. Prefers Playwright when available so the
     Cloudflare challenge can be solved; otherwise falls back to requests with an
-    optional cookie."""
+    optional cookie.
+
+    Playwright's Sync API can raise at start time in some environments (e.g.
+    "Sync API inside asyncio loop"), so we actually start it here and fall back
+    to requests on ANY failure — not just on import error.
+    """
     try:
         from playwright.sync_api import sync_playwright
-        return ('playwright', sync_playwright())
-    except Exception:
+        pw = sync_playwright().start()
+        # Smoke-test that the browser can launch; if not, fall back.
+        browser = pw.chromium.launch(headless=True)
+        browser.close()
+        return ('playwright', pw)
+    except Exception as e:
+        print('Playwright unavailable ({}), falling back to requests.'.format(e))
         import requests
         s = requests.Session()
         s.headers.update(HEADERS)
@@ -148,16 +158,16 @@ def _session():
 def _fetch_html(target, url):
     kind, sess = target
     if kind == 'playwright':
-        with sess as p:
-            browser = p.chromium.launch(headless=True)
-            ctx = browser.new_context(user_agent=HEADERS['User-Agent'])
-            page = ctx.new_page()
-            page.goto(url, timeout=60000, wait_until='domcontentloaded')
-            # Let any client-side rendering settle.
-            page.wait_for_timeout(3000)
-            html = page.content()
-            browser.close()
-            return html
+        # sess is an already-started sync_playwright() instance.
+        browser = sess.chromium.launch(headless=True)
+        ctx = browser.new_context(user_agent=HEADERS['User-Agent'])
+        page = ctx.new_page()
+        page.goto(url, timeout=60000, wait_until='domcontentloaded')
+        # Let any client-side rendering settle.
+        page.wait_for_timeout(3000)
+        html = page.content()
+        browser.close()
+        return html
     else:
         import requests
         r = sess.get(url, timeout=60)
@@ -432,7 +442,7 @@ def main():
             detail_ctx = browser.new_context(user_agent=HEADERS['User-Agent'])
             print('Detail enrichment ENABLED (MB_DETAILS=1) — throttled, one context reused.')
         except Exception as e:
-            print('Detail enrichment requested but Playwright unavailable: {}'.format(e))
+            print('Detail enrichment requested but Playwright unavailable ({}): skipping.'.format(e))
             detail_ctx = None
 
     for slug, label, code in CATEGORIES:
@@ -444,6 +454,18 @@ def main():
             books = fetch_book_details(books, playwright_ctx=detail_ctx,
                                        max_books=max_details)
         path = os.path.join(out_dir, slug + '.json')
+        # Defensive: never overwrite a previously-populated cache file with an
+        # empty result (e.g. when Cloudflare blocks the fetch or Playwright
+        # fails).  Keep the last good data so the plugin never sees a wiped list.
+        if not books and os.path.exists(path) and os.path.getsize(path) > 2:
+            try:
+                with open(path, encoding='utf-8') as _f:
+                    if json.load(_f):
+                        print('{}: fetch returned 0 books (ERR: {}) — KEEPING previous cache'.format(
+                            slug, err or 'unknown'))
+                        books = json.load(open(path, encoding='utf-8'))
+            except Exception:
+                pass
         with open(path, 'w', encoding='utf-8') as f:
             json.dump(books, f, indent=2, ensure_ascii=False)
         meta['lists'].append({
@@ -459,6 +481,14 @@ def main():
                 books_d = fetch_book_details(books_d, playwright_ctx=detail_ctx,
                                              max_books=max_details)
             path_d = os.path.join(out_dir, slug + '_downloads.json')
+            # Same defensive guard for the downloads-sorted file.
+            if not books_d and os.path.exists(path_d) and os.path.getsize(path_d) > 2:
+                try:
+                    with open(path_d, encoding='utf-8') as _f:
+                        if json.load(_f):
+                            books_d = json.load(open(path_d, encoding='utf-8'))
+                except Exception:
+                    pass
             with open(path_d, 'w', encoding='utf-8') as f:
                 json.dump(books_d, f, indent=2, ensure_ascii=False)
             meta['lists'].append({
