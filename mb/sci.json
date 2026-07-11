@@ -1,7 +1,7 @@
 [
   {
     "rank": "1",
-    "title": "ABC's of Science",
+    "title": "ABC's of Science ABC's of Science",
     "authors": "Charles Oliver",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-5349.jpg",
     "source_url": "https://manybooks.net/titles/oliverchetext98abcos10.html",
@@ -10,7 +10,7 @@
   },
   {
     "rank": "2",
-    "title": "Criminal Psychology",
+    "title": "Criminal Psychology Criminal Psychology",
     "authors": "Hans Gross",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-cust-3055.jpg",
     "source_url": "https://manybooks.net/titles/grosshanetext98crmsy10.html",
@@ -19,10 +19,298 @@
   },
   {
     "rank": "3",
-    "title": "Relativity - The Special and General Theory",
+    "title": "Relativity - The Special and General Theory Relativity - The Special and General Theory",
     "authors": "Albert Einstein",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-cust-2473.jpg",
     "source_url": "https://manybooks.net/titles/einsteinetext04relat10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "4",
+    "title": "Amusements in Mathematics Amusements in Mathematics",
+    "authors": "Henry Ernest Dudeney",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-11606.jpg",
+    "source_url": "https://manybooks.net/titles/dudeneyh1671316713-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "5",
+    "title": "An Elementary Study of Chemistry An Elementary Study of Chemistry",
+    "authors": "William McPherson / William Edwards Henderson",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-16317.jpg",
+    "source_url": "https://manybooks.net/titles/hendersonw2084820848-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "6",
+    "title": "The Chemistry of Food and Nutrition The Chemistry of Food and Nutrition",
+    "authors": "A. W. Duncan",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-9895.jpg",
+    "source_url": "https://manybooks.net/titles/duncana15231523715237-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "7",
+    "title": "The Age of Invention The Age of Invention",
+    "authors": "Holland Thompson",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-6903.jpg",
+    "source_url": "https://manybooks.net/titles/thompsonholetext01nvent10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "8",
+    "title": "Popular scientific lectures Popular scientific lectures",
+    "authors": "Ernst Mach",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-31480.jpg",
+    "source_url": "https://manybooks.net/titles/mach3950839508-0.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "9",
+    "title": "Alcohol: A Dangerous and Unnecessary Medicine, How and… Alcohol: A Dangerous and Unnecessary Medicine, How and…",
+    "authors": "Martha Meir Allen",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-22237.jpg",
+    "source_url": "https://manybooks.net/titles/allenmm2677426774-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "10",
+    "title": "The Autobiography of Charles Darwin The Autobiography of Charles Darwin",
+    "authors": "Charles Darwin",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-2025.jpg",
+    "source_url": "https://manybooks.net/titles/darwinchetext99adrwn10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "11",
+    "title": "The Einstein Theory of Relativity The Einstein Theory of Relativity",
+    "authors": "H. A. Lorentz",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-8227.jpg",
+    "source_url": "https://manybooks.net/titles/lorentzh11331133511335.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "12",
+    "title": "Aesthetic as Science of Expression and General Linguis… Aesthetic as Science of Expression and General Linguis…",
+    "authors": "Benedetto Croce",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-54618.jpg",
+    "source_url": "https://manybooks.net/titles/crocebenetext058asth10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "13",
+    "title": "Diet and Health Diet and Health",
+    "authors": "Lulu Hunt Peters",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-cust-9634.jpg",
+    "source_url": "https://manybooks.net/titles/petersl15061506915069-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "14",
+    "title": "The Descent of Man The Descent of Man",
+    "authors": "Charles Darwin",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-2026.jpg",
+    "source_url": "https://manybooks.net/titles/darwinchetext00dscmn10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "15",
+    "title": "Decline of Science in England Decline of Science in England",
+    "authors": "Charles Babbage",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-707.jpg",
+    "source_url": "https://manybooks.net/titles/babbagecetext98dosie10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "16",
+    "title": "General Science General Science",
+    "authors": "Bertha May Clark",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-11537.jpg",
+    "source_url": "https://manybooks.net/titles/clarkb1659316593-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "17",
+    "title": "The Expression of Emotion in Man and Animals The Expression of Emotion in Man and Animals",
+    "authors": "Charles Darwin",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-2029.jpg",
+    "source_url": "https://manybooks.net/titles/darwinchetext98eemaa10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "18",
+    "title": "Anthropology Anthropology",
+    "authors": "Robert Ranulph Marett",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-11914.jpg",
+    "source_url": "https://manybooks.net/titles/marettr1728017280.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "19",
+    "title": "Disease and Its Causes Disease and Its Causes",
+    "authors": "William Thomas Councilman",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-9957.jpg",
+    "source_url": "https://manybooks.net/titles/councilmanw15281528315283-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "20",
+    "title": "Aids to Forensic Medicine and Toxicology Aids to Forensic Medicine and Toxicology",
+    "authors": "W. G. Aitchison Robertson",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-14650.jpg",
+    "source_url": "https://manybooks.net/titles/robertsonw1901919019-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "21",
+    "title": "An Elementary Study of Insects An Elementary Study of Insects",
+    "authors": "Leonard Haseman",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-18983.jpg",
+    "source_url": "https://manybooks.net/titles/hasemanl2343423434-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "22",
+    "title": "Famous Men of Science Famous Men of Science",
+    "authors": "Sarah Knowles Bolton",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-30716.jpg",
+    "source_url": "https://manybooks.net/titles/boltons3548935489.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "23",
+    "title": "The Standard Electrical Dictionary The Standard Electrical Dictionary",
+    "authors": "T. O'Conor Sloane",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-21989.jpg",
+    "source_url": "https://manybooks.net/titles/slonet2653526535-0.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "24",
+    "title": "Sea Of Dreams Sea Of Dreams",
+    "authors": "DA Henneman",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/61sNPQbb8kL._SL1350_.jpg",
+    "source_url": "https://manybooks.net/titles/sea-of-dreams",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "25",
+    "title": "Breeze Spells and Bridegrooms Breeze Spells and Bridegrooms",
+    "authors": "Sarah Wallace and S.O. Callahan",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/716QPT19odL._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/breeze-spells-and-bridegrooms",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "26",
+    "title": "The Elephant in the Ivy The Elephant in the Ivy",
+    "authors": "Alexander Greengaard",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/9154AjFyUfL._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/the-elephant-in-the-ivy",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "27",
+    "title": "Claimed by the Outlaw Claimed by the Outlaw",
+    "authors": "Rica Lane",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/71fO39Sy6uL._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/claimed-by-the-outlaw",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "28",
+    "title": "Sam Says NO! Sam Says NO!",
+    "authors": "Dean R Giles",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/81iVW7uMLUL._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/sam-says-no",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "29",
+    "title": "The Billionaire’s Secret Heart The Billionaire’s Secret Heart",
+    "authors": "Ivy Layne",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/71sVXwszHJL._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/the-billionaires-secret-heart",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "30",
+    "title": "A Convenient Risk A Convenient Risk",
+    "authors": "Sara R Turnquist",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/51XwEhjwGpL._SY445_SX342_.jpg",
+    "source_url": "https://manybooks.net/titles/a-convenient-risk",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "31",
+    "title": "The Asteroid Heist The Asteroid Heist",
+    "authors": "Rex Hurst",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/71SDXK_2BFCUL._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/the-asteroid-heist",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "32",
+    "title": "the moment we met was a lie - Volume 1 the moment we met was a lie - Volume 1",
+    "authors": "Kari Wiethop",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/71i5Q9aL07L._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/the-moment-we-met-was-a-lie-volume-1",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "33",
+    "title": "The Trojan Treasure Conspiracy The Trojan Treasure Conspiracy",
+    "authors": "Bruce Hutchison",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/81BKM4odRLL._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/the-trojan-treasure-conspiracy",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "34",
+    "title": "The Last Honest Man The Last Honest Man",
+    "authors": "Marek Puchon",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/Screenshot_202025-11-25_20at_2015.20.12.png",
+    "source_url": "https://manybooks.net/titles/the-last-honest-man",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "35",
+    "title": "The Babbling Brook Naked Poker Club, Book 1 The Babbling Brook Naked Poker Club, Book 1",
+    "authors": "Ann Warner",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/71D1tYODTfL._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/the-babbling-brook-naked-poker-club-book-1",
     "manybooks_download_url": "",
     "manybooks_format": "EPUB"
   }

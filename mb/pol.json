@@ -1,7 +1,7 @@
 [
   {
     "rank": "1",
-    "title": "The Communist Manifesto",
+    "title": "The Communist Manifesto The Communist Manifesto",
     "authors": "Karl Marx / Frederick Engels",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-cust-4741.jpg",
     "source_url": "https://manybooks.net/titles/marxengelsetext93manif12.html",
@@ -10,7 +10,7 @@
   },
   {
     "rank": "2",
-    "title": "The Republic",
+    "title": "The Republic The Republic",
     "authors": "Plato",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-5705.jpg",
     "source_url": "https://manybooks.net/titles/platoetext98repub11.html",
@@ -19,7 +19,187 @@
   },
   {
     "rank": "3",
-    "title": "Walden",
+    "title": "Walden Walden",
+    "authors": "Henry David Thoreau",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-cust-6908.jpg",
+    "source_url": "https://manybooks.net/titles/thoreauhetext95waldn10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "4",
+    "title": "The Prince The Prince",
+    "authors": "Niccolò Machiavelli",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-4652.jpg",
+    "source_url": "https://manybooks.net/titles/machiavelletext99tprnc11.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "5",
+    "title": "An Inquiry into the Nature and Causes of the Wealth of… An Inquiry into the Nature and Causes of the Wealth of…",
+    "authors": "Adam Smith / Germain Garnier",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-6487.jpg",
+    "source_url": "https://manybooks.net/titles/smithadaetext02wltnt10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "6",
+    "title": "The Rights of Man The Rights of Man",
+    "authors": "Thomas Paine",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-5424.jpg",
+    "source_url": "https://manybooks.net/titles/painethoetext03twtp210.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "7",
+    "title": "On the Duty of Civil Disobedience On the Duty of Civil Disobedience",
+    "authors": "Henry David Thoreau",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-6906.jpg",
+    "source_url": "https://manybooks.net/titles/thoreauhetext93civil11.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "8",
+    "title": "A Poor Wise Man A Poor Wise Man",
+    "authors": "Mary Roberts Rinehart",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-5933.jpg",
+    "source_url": "https://manybooks.net/titles/rinehartetext99pwsmn10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "9",
+    "title": "Democracy and Education Democracy and Education",
+    "authors": "John Dewey",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-2159.jpg",
+    "source_url": "https://manybooks.net/titles/deweyjohetext97dmedu10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "10",
+    "title": "Utopia Utopia",
+    "authors": "Thomas More",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-cust-5066.jpg",
+    "source_url": "https://manybooks.net/titles/morethometext00utopi10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "11",
+    "title": "'Indiscretions' of Lady Susan 'Indiscretions' of Lady Susan",
+    "authors": "Lady Susan Townley",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-19417.jpg",
+    "source_url": "https://manybooks.net/titles/townleysother07indiscretions.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "12",
+    "title": "Historical materialism and the economics of Karl Marx Historical materialism and the economics of Karl Marx",
+    "authors": "Benedetto Croce",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/Group.png",
+    "source_url": "https://manybooks.net/titles/croceben3965339653-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "13",
+    "title": "The American Crisis The American Crisis",
+    "authors": "Thomas Paine",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-5422.jpg",
+    "source_url": "https://manybooks.net/titles/painethoetext03twtp110.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "14",
+    "title": "Democracy In America, vol 1 Democracy In America, vol 1",
+    "authors": "Alexis de Tocqueville",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-6927.jpg",
+    "source_url": "https://manybooks.net/titles/tocquevietext971dina10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "15",
+    "title": "The Panama Canal Conflict between Great Britain and th… The Panama Canal Conflict between Great Britain and th…",
+    "authors": "Lassa Oppenheim",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-17723.jpg",
+    "source_url": "https://manybooks.net/titles/lassao2214322143-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "16",
+    "title": "With the Turks in Palestine With the Turks in Palestine",
+    "authors": "Alexander Aaronsohn",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-13196.jpg",
+    "source_url": "https://manybooks.net/titles/aaronsohna1033810338-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "17",
+    "title": "The French Revolution The French Revolution",
+    "authors": "Thomas Carlyle",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-1529.jpg",
+    "source_url": "https://manybooks.net/titles/carlyletetext98frrev10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "18",
+    "title": "Ragged Trousered Philanthropists Ragged Trousered Philanthropists",
+    "authors": "Robert Tressell",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-6964.jpg",
+    "source_url": "https://manybooks.net/titles/tresselletext03rggdp10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "19",
+    "title": "The Athenian Constitution The Athenian Constitution",
+    "authors": "Aristotle",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-21563.jpg",
+    "source_url": "https://manybooks.net/titles/aristotl2609526095.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "20",
+    "title": "Education in The Home, The Kindergarten, and The Prima… Education in The Home, The Kindergarten, and The Prima…",
+    "authors": "Elizabeth Palmer Peabody",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-35677.jpg",
+    "source_url": "https://manybooks.net/titles/peabodye3567735677-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "21",
+    "title": "Two Treatises of Government Two Treatises of Government",
+    "authors": "John Locke",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-4455.jpg",
+    "source_url": "https://manybooks.net/titles/lockejohetext05trgov10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "22",
+    "title": "Proposed Roads to Freedom Proposed Roads to Freedom",
+    "authors": "Bertrand Russell",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-6034.jpg",
+    "source_url": "https://manybooks.net/titles/russellbetext96rfree10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "23",
+    "title": "Walden Walden",
     "authors": "Henry David Thoreau",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-cust-6908.jpg",
     "source_url": "https://manybooks.net/titles/thoreauhetext95waldn10.html",

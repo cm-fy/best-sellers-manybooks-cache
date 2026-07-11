@@ -1,7 +1,7 @@
 [
   {
     "rank": "1",
-    "title": "Dracula",
+    "title": "Dracula Dracula",
     "authors": "Bram Stoker",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-6694.jpg",
     "source_url": "https://manybooks.net/titles/stokerbretext95dracu12.html",
@@ -10,7 +10,7 @@
   },
   {
     "rank": "2",
-    "title": "Collected Works of Poe",
+    "title": "Collected Works of Poe Collected Works of Poe",
     "authors": "Edgar Allan Poe",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-cust-5719.jpg",
     "source_url": "https://manybooks.net/titles/poeedgaretext00poe1v10.html",
@@ -19,10 +19,208 @@
   },
   {
     "rank": "3",
-    "title": "Jane Eyre",
+    "title": "Jane Eyre Jane Eyre",
     "authors": "Charlotte Brontë",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-cust-1239.jpg",
     "source_url": "https://manybooks.net/titles/brontechetext98janey11.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "4",
+    "title": "The Castle of Otranto The Castle of Otranto",
+    "authors": "Horace Walpole",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-7218.jpg",
+    "source_url": "https://manybooks.net/titles/walpolehoraetext96cotrt10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "5",
+    "title": "Dracula's Guest Dracula's Guest",
+    "authors": "Bram Stoker",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-15180.jpg",
+    "source_url": "https://manybooks.net/titles/stokerbr1015010150-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "6",
+    "title": "The Mysteries of Udolpho The Mysteries of Udolpho",
+    "authors": "Ann Ward Radcliffe",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-5803.jpg",
+    "source_url": "https://manybooks.net/titles/radcliffetext02udolf10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "7",
+    "title": "Varney the Vampire Varney the Vampire",
+    "authors": "Thomas Preskett Prest",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-4914.jpg",
+    "source_url": "https://manybooks.net/titles/prestt14831483314833.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "8",
+    "title": "The Romance of the Forest The Romance of the Forest",
+    "authors": "Ann Radcliffe",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-cust-11595.jpg",
+    "source_url": "https://manybooks.net/titles/radcliffother05romance_of_the_forest.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "9",
+    "title": "The Dead Alive The Dead Alive",
+    "authors": "Wilkie Collins",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-1788.jpg",
+    "source_url": "https://manybooks.net/titles/collinswetext05cdead10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "10",
+    "title": "The Castle of Wolfenbach The Castle of Wolfenbach",
+    "authors": "Eliza Parsons",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-19985.jpg",
+    "source_url": "https://manybooks.net/titles/parsonseother08castle_of_wolfenbach.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "11",
+    "title": "The Last Man The Last Man",
+    "authors": "Mary Wollstonecraft Shelley",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-13386.jpg",
+    "source_url": "https://manybooks.net/titles/shelleym1824718247.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "12",
+    "title": "The Man The Man",
+    "authors": "Bram Stoker",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-6698.jpg",
+    "source_url": "https://manybooks.net/titles/stokerbretext01thman10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "13",
+    "title": "The Castles of Athlin and Dunbayne The Castles of Athlin and Dunbayne",
+    "authors": "Ann Radcliffe",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-11593.jpg",
+    "source_url": "https://manybooks.net/titles/radcliffother05castles_of_athlin.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "14",
+    "title": "The Wyvern Mystery, vol. 1 The Wyvern Mystery, vol. 1",
+    "authors": "Joseph Sheridan Le Fanu",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-24731.jpg",
+    "source_url": "https://manybooks.net/titles/fanujoseother09lefanu-wyvern1-00-t.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "15",
+    "title": "Nightmare Abbey Nightmare Abbey",
+    "authors": "Thomas Love Peacock",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-12034.jpg",
+    "source_url": "https://manybooks.net/titles/peacocktetext068nmab10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "16",
+    "title": "The Radio Detectives The Radio Detectives",
+    "authors": "A. Hyatt Verrill",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-31500.jpg",
+    "source_url": "https://manybooks.net/titles/verrilla3957639576-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "17",
+    "title": "I misteri del castello d'Udolfo, vol. 1 I misteri del castello d'Udolfo, vol. 1",
+    "authors": "Ann Ward Radcliffe",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-29063.jpg",
+    "source_url": "https://manybooks.net/titles/radcliff3378133781-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "18",
+    "title": "I misteri del castello d'Udolfo, vol. 2 I misteri del castello d'Udolfo, vol. 2",
+    "authors": "Ann Ward Radcliffe",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-29064.jpg",
+    "source_url": "https://manybooks.net/titles/radcliff3378233782-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "19",
+    "title": "The Wyvern Mystery, vol. 2 The Wyvern Mystery, vol. 2",
+    "authors": "Joseph Sheridan Le Fanu",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-25788.jpg",
+    "source_url": "https://manybooks.net/titles/fanujoseother09wyvern_mystery_v2.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "20",
+    "title": "I misteri del castello d'Udolfo, vol. 4 I misteri del castello d'Udolfo, vol. 4",
+    "authors": "Ann Ward Radcliffe",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-29066.jpg",
+    "source_url": "https://manybooks.net/titles/radcliff3378433784-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "21",
+    "title": "Wylder's Hand Wylder's Hand",
+    "authors": "Joseph Sheridan Le Fanu",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-12366.jpg",
+    "source_url": "https://manybooks.net/titles/fanujoseetext068wyld10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "22",
+    "title": "Zastrozzi Zastrozzi",
+    "authors": "Percy Bysshe Shelley",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-24051.jpg",
+    "source_url": "https://manybooks.net/titles/shelleypother09zastrozzi.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "23",
+    "title": "I misteri del castello d'Udolfo, vol. 3 I misteri del castello d'Udolfo, vol. 3",
+    "authors": "Ann Ward Radcliffe",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-29065.jpg",
+    "source_url": "https://manybooks.net/titles/radcliff3378333783-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "24",
+    "title": "Collected Works of Poe Collected Works of Poe",
+    "authors": "Edgar Allan Poe",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-cust-5719.jpg",
+    "source_url": "https://manybooks.net/titles/poeedgaretext00poe1v10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "25",
+    "title": "Dracula Dracula",
+    "authors": "Bram Stoker",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-6694.jpg",
+    "source_url": "https://manybooks.net/titles/stokerbretext95dracu12.html",
     "manybooks_download_url": "",
     "manybooks_format": "EPUB"
   }

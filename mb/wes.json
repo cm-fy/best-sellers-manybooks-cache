@@ -1,7 +1,7 @@
 [
   {
     "rank": "1",
-    "title": "The Bandit of Hell's Bend",
+    "title": "The Bandit of Hell's Bend The Bandit of Hell's Bend",
     "authors": "Edgar Rice Burroughs",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-23088.jpg",
     "source_url": "https://manybooks.net/titles/burroughseother09bandit_of_hells_bend.html",
@@ -10,7 +10,7 @@
   },
   {
     "rank": "2",
-    "title": "Alcatraz",
+    "title": "Alcatraz Alcatraz",
     "authors": "Max Brand",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-cust-8177.jpg",
     "source_url": "https://manybooks.net/titles/brandmax11191119511195-8.html",
@@ -19,10 +19,217 @@
   },
   {
     "rank": "3",
-    "title": "A Voice in the Wilderness",
+    "title": "A Voice in the Wilderness A Voice in the Wilderness",
     "authors": "Grace Livingston Hill",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-16713.jpg",
     "source_url": "https://manybooks.net/titles/hillgrac2121921219-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "4",
+    "title": "The Border Legion The Border Legion",
+    "authors": "Zane Grey",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-3017.jpg",
+    "source_url": "https://manybooks.net/titles/greyzaneetext03thbrd10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "5",
+    "title": "'Firebrand' Trevison 'Firebrand' Trevison",
+    "authors": "Charles Alden Seltzer",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-22419.jpg",
+    "source_url": "https://manybooks.net/titles/seltzerc2695126951-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "6",
+    "title": "Winnetou, the Apache Knight Winnetou, the Apache Knight",
+    "authors": "Karl Friedrich May",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-14833.jpg",
+    "source_url": "https://manybooks.net/titles/maykarlother06winnetou_apache_knight.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "7",
+    "title": "The Ranch Girls at Home Again The Ranch Girls at Home Again",
+    "authors": "Margaret Vandercook",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-34928.jpg",
+    "source_url": "https://manybooks.net/titles/vanderco3492834928.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "8",
+    "title": "The Two-Gun Man The Two-Gun Man",
+    "authors": "Charles Alden Seltzer",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-14608.jpg",
+    "source_url": "https://manybooks.net/titles/seltzerc1901219012.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "9",
+    "title": "Bull Hunter Bull Hunter",
+    "authors": "Max Brand",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-7782.jpg",
+    "source_url": "https://manybooks.net/titles/brandmax10321032410324.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "10",
+    "title": "Burning Daylight Burning Daylight",
+    "authors": "Jack London",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-4470.jpg",
+    "source_url": "https://manybooks.net/titles/londonjaetext96bdlit10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "11",
+    "title": "Dwellers in the Hills Dwellers in the Hills",
+    "authors": "Melville Davisson Post",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-25150.jpg",
+    "source_url": "https://manybooks.net/titles/postmelv2985129851-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "12",
+    "title": "Rebel Spurs Rebel Spurs",
+    "authors": "Andre Norton",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-16311.jpg",
+    "source_url": "https://manybooks.net/titles/nortona2084020840-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "13",
+    "title": "'Drag' Harlan 'Drag' Harlan",
+    "authors": "Charles Alden Seltzer",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-21216.jpg",
+    "source_url": "https://manybooks.net/titles/seltzerc2577925779-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "14",
+    "title": "The Man of the Forest The Man of the Forest",
+    "authors": "Zane Grey",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-16048.jpg",
+    "source_url": "https://manybooks.net/titles/greyzaneetext02mnfor11.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "15",
+    "title": "Love of Life Love of Life",
+    "authors": "Jack London",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-4483.jpg",
+    "source_url": "https://manybooks.net/titles/londonjaetext96llife10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "16",
+    "title": "The Seventh Man The Seventh Man",
+    "authors": "Max Brand",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-cust-15700.jpg",
+    "source_url": "https://manybooks.net/titles/brandmaxetext997thmn10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "17",
+    "title": "The Boss of the Lazy Y The Boss of the Lazy Y",
+    "authors": "Charles Alden Seltzer",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-14648.jpg",
+    "source_url": "https://manybooks.net/titles/seltzerc1902619026-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "18",
+    "title": "Big Timber Big Timber",
+    "authors": "Bertrand W. Sinclair",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-16500.jpg",
+    "source_url": "https://manybooks.net/titles/sinclairb1122311223-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "19",
+    "title": "The Everlasting Whisper The Everlasting Whisper",
+    "authors": "Jackson Gregory",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-7765.jpg",
+    "source_url": "https://manybooks.net/titles/10211021310213-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "20",
+    "title": "Beth Norvell Beth Norvell",
+    "authors": "Randall Parrish",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-12005.jpg",
+    "source_url": "https://manybooks.net/titles/parrishr1759817598-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "21",
+    "title": "Brand Blotters Brand Blotters",
+    "authors": "William MacLeod Raine",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-22796.jpg",
+    "source_url": "https://manybooks.net/titles/rainewil2743627436-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "22",
+    "title": "Evidence Evidence",
+    "authors": "Murray Leinster",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-18859.jpg",
+    "source_url": "https://manybooks.net/titles/leinstermother07evidence.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "23",
+    "title": "The Night Horseman The Night Horseman",
+    "authors": "Max Brand",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-8623.jpg",
+    "source_url": "https://manybooks.net/titles/brandmax12431243612436.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "24",
+    "title": "Ben Blair Ben Blair",
+    "authors": "Will Lillibridge",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-12978.jpg",
+    "source_url": "https://manybooks.net/titles/lillibridgew1784417844-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "25",
+    "title": "Born To Track Born To Track",
+    "authors": "Stuart G. Yates",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/51IuOKejldL.jpeg",
+    "source_url": "https://manybooks.net/titles/born-to-track",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "26",
+    "title": "Texas Cowboy's Protection Texas Cowboy's Protection",
+    "authors": "Barb Han",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/texas.jpg",
+    "source_url": "https://manybooks.net/titles/texas-cowboys-protection",
     "manybooks_download_url": "",
     "manybooks_format": "EPUB"
   }

@@ -1,7 +1,7 @@
 [
   {
     "rank": "1",
-    "title": "A Brief History of the Internet",
+    "title": "A Brief History of the Internet A Brief History of the Internet",
     "authors": "Maxwell Fuller / Michael Hart",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-cust-3300.jpg",
     "source_url": "https://manybooks.net/titles/hartmichetext95bhoti01.html",
@@ -10,7 +10,7 @@
   },
   {
     "rank": "2",
-    "title": "The Hacker's Dictionary",
+    "title": "The Hacker's Dictionary The Hacker's Dictionary",
     "authors": "—",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-cust-230.jpg",
     "source_url": "https://manybooks.net/titles/anonetext92jargn10.html",
@@ -19,10 +19,307 @@
   },
   {
     "rank": "3",
-    "title": "Hacker Crackdown",
+    "title": "Hacker Crackdown Hacker Crackdown",
     "authors": "Bruce Sterling",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-cust-6617.jpg",
     "source_url": "https://manybooks.net/titles/sterlingetext94hack11a.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "4",
+    "title": "Approaching Zero Approaching Zero",
+    "authors": "Paul Mungo",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-22524.jpg",
+    "source_url": "https://manybooks.net/titles/mungopother08approaching_zero.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "5",
+    "title": "3D Graphics Modelling and Rendering mini-HOWTO 3D Graphics Modelling and Rendering mini-HOWTO",
+    "authors": "Dane Jarvis",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-20811.jpg",
+    "source_url": "https://manybooks.net/titles/jarvisdother083D-Modelling.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "6",
+    "title": "Hackers, Heroes of the Computer Revolution Hackers, Heroes of the Computer Revolution",
+    "authors": "Steven Levy",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-cust-4377.jpg",
+    "source_url": "https://manybooks.net/titles/levystevetext96hckrs10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "7",
+    "title": "The New Hacker's Dictionary The New Hacker's Dictionary",
+    "authors": "Eric S. Raymond",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-297.jpg",
+    "source_url": "https://manybooks.net/titles/anonetext02jarg422.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "8",
+    "title": "The Cathedral and the Bazaar The Cathedral and the Bazaar",
+    "authors": "Eric S. Raymond",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-10633.jpg",
+    "source_url": "https://manybooks.net/titles/raymondericother05cathedralandbazaar.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "9",
+    "title": "The Jargon File The Jargon File",
+    "authors": "Eric S. Raymond",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-15892.jpg",
+    "source_url": "https://manybooks.net/titles/raymondericetext02jarg422.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "10",
+    "title": "Man and Superman Man and Superman",
+    "authors": "George Bernard Shaw",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-21578.jpg",
+    "source_url": "https://manybooks.net/titles/shawgeor33283328.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "11",
+    "title": "Decline of Science in England Decline of Science in England",
+    "authors": "Charles Babbage",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-707.jpg",
+    "source_url": "https://manybooks.net/titles/babbagecetext98dosie10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "12",
+    "title": "ADSL Bandwidth Management HOWTO ADSL Bandwidth Management HOWTO",
+    "authors": "Dan Singletary",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-20866.jpg",
+    "source_url": "https://manybooks.net/titles/singletarydother08ADSL-Bandwidth-Management-HOWTO.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "13",
+    "title": "Underground Underground",
+    "authors": "Suelette Dreyfus",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-2326.jpg",
+    "source_url": "https://manybooks.net/titles/dreyfussetext03undgd10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "14",
+    "title": "All Complex Ecosystems Have Parasites All Complex Ecosystems Have Parasites",
+    "authors": "Cory Doctorow",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-10020.jpg",
+    "source_url": "https://manybooks.net/titles/doctorowother05complexecosystems.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "15",
+    "title": "Debian GNU/Linux: Guide to Installation and Usage Debian GNU/Linux: Guide to Installation and Usage",
+    "authors": "John Goerzen and Ossama Othman",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-2909.jpg",
+    "source_url": "https://manybooks.net/titles/goerzenetext04dguid10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "16",
+    "title": "E-books and e-publishing E-books and e-publishing",
+    "authors": "Samuel Vaknin",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-7124.jpg",
+    "source_url": "https://manybooks.net/titles/vakninshmuetext03ebpub11.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "17",
+    "title": "The Coming Technological Singularity The Coming Technological Singularity",
+    "authors": "Vernor Vinge",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-10345.jpg",
+    "source_url": "https://manybooks.net/titles/vingevother05singularity.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "18",
+    "title": "ACPI: Advanced Configuration and Power Interface ACPI: Advanced Configuration and Power Interface",
+    "authors": "Emma Jane Hogbin",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-20835.jpg",
+    "source_url": "https://manybooks.net/titles/hogbineother08ACPI-HOWTO.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "19",
+    "title": "802.1X Port-Based Authentication HOWTO 802.1X Port-Based Authentication HOWTO",
+    "authors": "Lars Strand",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-20813.jpg",
+    "source_url": "https://manybooks.net/titles/strandlother088021X-HOWTO.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "20",
+    "title": "The 3 Button Serial Mouse mini-HOWTO The 3 Button Serial Mouse mini-HOWTO",
+    "authors": "Geoff Short",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-20810.jpg",
+    "source_url": "https://manybooks.net/titles/shortgother083-Button-Mouse.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "21",
+    "title": "The Cyberpunk Fakebook The Cyberpunk Fakebook",
+    "authors": "St. Jude and R. U. Sirius",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-6461.jpg",
+    "source_url": "https://manybooks.net/titles/siriusstetext97fakeb10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "22",
+    "title": "On the Economy of Machinery and Manufactures On the Economy of Machinery and Manufactures",
+    "authors": "Charles Babbage",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-708.jpg",
+    "source_url": "https://manybooks.net/titles/babbagecetext03cnmmm10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "23",
+    "title": "4mb Laptop HOWTO 4mb Laptop HOWTO",
+    "authors": "Bruce Richardson",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-20812.jpg",
+    "source_url": "https://manybooks.net/titles/richardsonbother084mb-Laptops.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "24",
+    "title": "Free for All Free for All",
+    "authors": "Peter Wayner",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-14734.jpg",
+    "source_url": "https://manybooks.net/titles/waynerpother06free_for_all.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "25",
+    "title": "Sea Of Dreams Sea Of Dreams",
+    "authors": "DA Henneman",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/61sNPQbb8kL._SL1350_.jpg",
+    "source_url": "https://manybooks.net/titles/sea-of-dreams",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "26",
+    "title": "Breeze Spells and Bridegrooms Breeze Spells and Bridegrooms",
+    "authors": "Sarah Wallace and S.O. Callahan",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/716QPT19odL._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/breeze-spells-and-bridegrooms",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "27",
+    "title": "The Elephant in the Ivy The Elephant in the Ivy",
+    "authors": "Alexander Greengaard",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/9154AjFyUfL._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/the-elephant-in-the-ivy",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "28",
+    "title": "Claimed by the Outlaw Claimed by the Outlaw",
+    "authors": "Rica Lane",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/71fO39Sy6uL._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/claimed-by-the-outlaw",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "29",
+    "title": "Sam Says NO! Sam Says NO!",
+    "authors": "Dean R Giles",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/81iVW7uMLUL._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/sam-says-no",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "30",
+    "title": "The Billionaire’s Secret Heart The Billionaire’s Secret Heart",
+    "authors": "Ivy Layne",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/71sVXwszHJL._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/the-billionaires-secret-heart",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "31",
+    "title": "A Convenient Risk A Convenient Risk",
+    "authors": "Sara R Turnquist",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/51XwEhjwGpL._SY445_SX342_.jpg",
+    "source_url": "https://manybooks.net/titles/a-convenient-risk",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "32",
+    "title": "The Asteroid Heist The Asteroid Heist",
+    "authors": "Rex Hurst",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/71SDXK_2BFCUL._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/the-asteroid-heist",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "33",
+    "title": "the moment we met was a lie - Volume 1 the moment we met was a lie - Volume 1",
+    "authors": "Kari Wiethop",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/71i5Q9aL07L._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/the-moment-we-met-was-a-lie-volume-1",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "34",
+    "title": "The Trojan Treasure Conspiracy The Trojan Treasure Conspiracy",
+    "authors": "Bruce Hutchison",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/81BKM4odRLL._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/the-trojan-treasure-conspiracy",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "35",
+    "title": "The Last Honest Man The Last Honest Man",
+    "authors": "Marek Puchon",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/Screenshot_202025-11-25_20at_2015.20.12.png",
+    "source_url": "https://manybooks.net/titles/the-last-honest-man",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "36",
+    "title": "The Babbling Brook Naked Poker Club, Book 1 The Babbling Brook Naked Poker Club, Book 1",
+    "authors": "Ann Warner",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/71D1tYODTfL._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/the-babbling-brook-naked-poker-club-book-1",
     "manybooks_download_url": "",
     "manybooks_format": "EPUB"
   }

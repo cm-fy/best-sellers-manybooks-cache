@@ -1,7 +1,7 @@
 [
   {
     "rank": "1",
-    "title": "The Arabian Nights",
+    "title": "The Arabian Nights The Arabian Nights",
     "authors": "Andrew Lang",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-cust-4215.jpg",
     "source_url": "https://manybooks.net/titles/langandretext94arabn11.html",
@@ -10,7 +10,7 @@
   },
   {
     "rank": "2",
-    "title": "The Communist Manifesto",
+    "title": "The Communist Manifesto The Communist Manifesto",
     "authors": "Karl Marx / Frederick Engels",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-cust-4741.jpg",
     "source_url": "https://manybooks.net/titles/marxengelsetext93manif12.html",
@@ -19,10 +19,280 @@
   },
   {
     "rank": "3",
-    "title": "Adventures of Huckleberry Finn",
+    "title": "Adventures of Huckleberry Finn Adventures of Huckleberry Finn",
     "authors": "Mark Twain",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-7032.jpg",
     "source_url": "https://manybooks.net/titles/twainmaretext93hfinn12.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "4",
+    "title": "The Age of Reason The Age of Reason",
+    "authors": "D. J. Medley",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-cust-5421.jpg",
+    "source_url": "https://manybooks.net/titles/painethoetext03twtp410.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "5",
+    "title": "Ulysses Ulysses",
+    "authors": "James Joyce",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-cust-4050.jpg",
+    "source_url": "https://manybooks.net/titles/joycejametext03ulyss12.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "6",
+    "title": "The ''Genius'' The ''Genius''",
+    "authors": "Theodore Dreiser",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-27181.jpg",
+    "source_url": "https://manybooks.net/titles/dreisert3182431824-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "7",
+    "title": "The Call of the Wild The Call of the Wild",
+    "authors": "Jack London",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-cust-4471.jpg",
+    "source_url": "https://manybooks.net/titles/londonjaetext95callw10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "8",
+    "title": "Canterbury Tales and Other Poems Canterbury Tales and Other Poems",
+    "authors": "Geoffrey Chaucer",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-cust-1646.jpg",
+    "source_url": "https://manybooks.net/titles/chaucergetext00cbtls12.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "9",
+    "title": "An Inquiry into the Nature and Causes of the Wealth of… An Inquiry into the Nature and Causes of the Wealth of…",
+    "authors": "Adam Smith / Germain Garnier",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-6487.jpg",
+    "source_url": "https://manybooks.net/titles/smithadaetext02wltnt10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "10",
+    "title": "The Arabian Nights Entertainments The Arabian Nights Entertainments",
+    "authors": "—",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-cust-14.jpg",
+    "source_url": "https://manybooks.net/titles/anonetext04arnsc10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "11",
+    "title": "Eve's Diary Eve's Diary",
+    "authors": "Mark Twain",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-11892.jpg",
+    "source_url": "https://manybooks.net/titles/twainmar85258525.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "12",
+    "title": "Ten Days That Shook the World Ten Days That Shook the World",
+    "authors": "John Reed",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-5859.jpg",
+    "source_url": "https://manybooks.net/titles/reedjohnetext0210daz10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "13",
+    "title": "The Rights of Man The Rights of Man",
+    "authors": "Thomas Paine",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-5424.jpg",
+    "source_url": "https://manybooks.net/titles/painethoetext03twtp210.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "14",
+    "title": "Candide Candide",
+    "authors": "Voltaire",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-cust-10165.jpg",
+    "source_url": "https://manybooks.net/titles/voltaireother05candide.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "15",
+    "title": "The Decameron of Giovanni Boccaccio The Decameron of Giovanni Boccaccio",
+    "authors": "Giovanni Boccaccio",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-19242.jpg",
+    "source_url": "https://manybooks.net/titles/boccacci2370023700-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "16",
+    "title": "Candide Candide",
+    "authors": "Voltaire",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-15396.jpg",
+    "source_url": "https://manybooks.net/titles/voltaire1994219942-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "17",
+    "title": "On the Duty of Civil Disobedience On the Duty of Civil Disobedience",
+    "authors": "Henry David Thoreau",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-6906.jpg",
+    "source_url": "https://manybooks.net/titles/thoreauhetext93civil11.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "18",
+    "title": "Simon Called Peter Simon Called Peter",
+    "authors": "Robert Keable",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-9840.jpg",
+    "source_url": "https://manybooks.net/titles/keabler14571457914579-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "19",
+    "title": "Master Flea Master Flea",
+    "authors": "E. T. A. Hoffmann",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-27591.jpg",
+    "source_url": "https://manybooks.net/titles/hoffmannet3222332223-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "20",
+    "title": "Reginald Cruden Reginald Cruden",
+    "authors": "Talbot Baines Reed",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-16553.jpg",
+    "source_url": "https://manybooks.net/titles/reedt2104321043-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "21",
+    "title": "Salmelan heinätalkoot Salmelan heinätalkoot",
+    "authors": "Olli Wuorinen",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-26659.jpg",
+    "source_url": "https://manybooks.net/titles/wuorineno3126431264-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "22",
+    "title": "The Elephant in the Ivy The Elephant in the Ivy",
+    "authors": "Alexander Greengaard",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/9154AjFyUfL._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/the-elephant-in-the-ivy",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "23",
+    "title": "Claimed by the Outlaw Claimed by the Outlaw",
+    "authors": "Rica Lane",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/71fO39Sy6uL._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/claimed-by-the-outlaw",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "24",
+    "title": "Sam Says NO! Sam Says NO!",
+    "authors": "Dean R Giles",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/81iVW7uMLUL._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/sam-says-no",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "25",
+    "title": "The Billionaire’s Secret Heart The Billionaire’s Secret Heart",
+    "authors": "Ivy Layne",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/71sVXwszHJL._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/the-billionaires-secret-heart",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "26",
+    "title": "A Convenient Risk A Convenient Risk",
+    "authors": "Sara R Turnquist",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/51XwEhjwGpL._SY445_SX342_.jpg",
+    "source_url": "https://manybooks.net/titles/a-convenient-risk",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "27",
+    "title": "The Asteroid Heist The Asteroid Heist",
+    "authors": "Rex Hurst",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/71SDXK_2BFCUL._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/the-asteroid-heist",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "28",
+    "title": "the moment we met was a lie - Volume 1 the moment we met was a lie - Volume 1",
+    "authors": "Kari Wiethop",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/71i5Q9aL07L._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/the-moment-we-met-was-a-lie-volume-1",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "29",
+    "title": "The Trojan Treasure Conspiracy The Trojan Treasure Conspiracy",
+    "authors": "Bruce Hutchison",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/81BKM4odRLL._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/the-trojan-treasure-conspiracy",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "30",
+    "title": "The Last Honest Man The Last Honest Man",
+    "authors": "Marek Puchon",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/Screenshot_202025-11-25_20at_2015.20.12.png",
+    "source_url": "https://manybooks.net/titles/the-last-honest-man",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "31",
+    "title": "The Babbling Brook Naked Poker Club, Book 1 The Babbling Brook Naked Poker Club, Book 1",
+    "authors": "Ann Warner",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/71D1tYODTfL._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/the-babbling-brook-naked-poker-club-book-1",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "32",
+    "title": "Dreams for Stones Dreams for Stones",
+    "authors": "Ann Warner",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/719xUgn2vNL._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/dreams-for-stones-0",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "33",
+    "title": "Claiming Her Forever Claiming Her Forever",
+    "authors": "Alexis Winter",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/81udF61wBbL._SL1500__20_281_29.jpg",
+    "source_url": "https://manybooks.net/titles/claiming-her-forever",
     "manybooks_download_url": "",
     "manybooks_format": "EPUB"
   }

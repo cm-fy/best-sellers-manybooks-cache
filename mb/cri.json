@@ -1,7 +1,7 @@
 [
   {
     "rank": "1",
-    "title": "The Critique of Pure Reason",
+    "title": "The Critique of Pure Reason The Critique of Pure Reason",
     "authors": "Immanuel Kant",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-cust-4062.jpg",
     "source_url": "https://manybooks.net/titles/kantimmaetext03cprrn10.html",
@@ -10,7 +10,7 @@
   },
   {
     "rank": "2",
-    "title": "Adventures in Criticism",
+    "title": "Adventures in Criticism Adventures in Criticism",
     "authors": "Arthur Thomas Quiller-Couch",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-10924.jpg",
     "source_url": "https://manybooks.net/titles/quiller-coucha1745217452.html",
@@ -19,10 +19,307 @@
   },
   {
     "rank": "3",
-    "title": "Harvard Classics, vol 32",
+    "title": "Harvard Classics, vol 32 Harvard Classics, vol 32",
     "authors": "Immanuel Kant / Ernest Renan / Giuseppe Mazzini / C. -A. Sainte-Beuve / Michel de Montaigne / Friedrich von Schiller / Gotthold Ephraim Lessing",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-232.jpg",
     "source_url": "https://manybooks.net/titles/anonetext04litpe10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "4",
+    "title": "An anthology of German literature An anthology of German literature",
+    "authors": "Calvin Thomas",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-16583.jpg",
+    "source_url": "https://manybooks.net/titles/thomasca2105321053-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "5",
+    "title": "Write It Right Write It Right",
+    "authors": "Ambrose Bierce",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-11074.jpg",
+    "source_url": "https://manybooks.net/titles/bierceam12471247412474-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "6",
+    "title": "Appreciations and Criticisms of the Works of Charles D… Appreciations and Criticisms of the Works of Charles D…",
+    "authors": "G. K. Chesterton",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-17979.jpg",
+    "source_url": "https://manybooks.net/titles/chestert2236222362-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "7",
+    "title": "Culture and Anarchy Culture and Anarchy",
+    "authors": "Matthew Arnold",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-645.jpg",
+    "source_url": "https://manybooks.net/titles/arnoldmaetext038cltn10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "8",
+    "title": "The Delicious Vice The Delicious Vice",
+    "authors": "Young E. Allison",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-560.jpg",
+    "source_url": "https://manybooks.net/titles/allisonyetext058tdvc10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "9",
+    "title": "Brief History of English and American Literature Brief History of English and American Literature",
+    "authors": "Henry A. Beers",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-16592.jpg",
+    "source_url": "https://manybooks.net/titles/beersh2109021090-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "10",
+    "title": "On the Decay of the Art of Lying On the Decay of the Art of Lying",
+    "authors": "Mark Twain",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-7060.jpg",
+    "source_url": "https://manybooks.net/titles/twainmaretext01lying10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "11",
+    "title": "Art Art",
+    "authors": "Clive Bell",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-11746.jpg",
+    "source_url": "https://manybooks.net/titles/bellc1691716917-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "12",
+    "title": "The American Credo The American Credo",
+    "authors": "H. L. Mencken / George Jean Nathan",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-19388.jpg",
+    "source_url": "https://manybooks.net/titles/menckenh2385823858-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "13",
+    "title": "The Miracle Mongers and their Methods The Miracle Mongers and their Methods",
+    "authors": "Harry Houdini",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-3655.jpg",
+    "source_url": "https://manybooks.net/titles/houdinihetext96mmong10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "14",
+    "title": "The Architecture and Landscape Gardening of the Exposi… The Architecture and Landscape Gardening of the Exposi…",
+    "authors": "Louis Christian Mullgardt",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-5228.jpg",
+    "source_url": "https://manybooks.net/titles/mullgardetext06algex10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "15",
+    "title": "Theory of the Leisure Class Theory of the Leisure Class",
+    "authors": "Thorstein Veblen",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-7138.jpg",
+    "source_url": "https://manybooks.net/titles/veblenthetext97totlc11.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "16",
+    "title": "French Art French Art",
+    "authors": "W. C. Brownell",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-11618.jpg",
+    "source_url": "https://manybooks.net/titles/brownellw1724417244-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "17",
+    "title": "Adventures among Books Adventures among Books",
+    "authors": "Andrew Lang",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-4212.jpg",
+    "source_url": "https://manybooks.net/titles/langandretext99advbk10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "18",
+    "title": "In Defense of Women In Defense of Women",
+    "authors": "H. L. Mencken",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-4856.jpg",
+    "source_url": "https://manybooks.net/titles/menckenhetext98ndwmn11.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "19",
+    "title": "The Conservative Nanny State The Conservative Nanny State",
+    "authors": "Dean Baker",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-25610.jpg",
+    "source_url": "https://manybooks.net/titles/bakerdother09conservative_nanny_state.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "20",
+    "title": "Goethe's Faust Goethe's Faust",
+    "authors": "Johannes Diderik Bierens de Haan",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-23018.jpg",
+    "source_url": "https://manybooks.net/titles/haanj2301823018-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "21",
+    "title": "The Craft of Fiction The Craft of Fiction",
+    "authors": "Percy Lubbock",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-14533.jpg",
+    "source_url": "https://manybooks.net/titles/lubbockp1896118961-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "22",
+    "title": "English Literature: Its History and Significance for t… English Literature: Its History and Significance for t…",
+    "authors": "William J. Long",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-12515.jpg",
+    "source_url": "https://manybooks.net/titles/longwill10601060910609.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "23",
+    "title": "Custom and Myth Custom and Myth",
+    "authors": "Andrew Lang",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-28536.jpg",
+    "source_url": "https://manybooks.net/titles/langandr3326033260-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "24",
+    "title": "Lectures on Art Lectures on Art",
+    "authors": "John Ruskin",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-14362.jpg",
+    "source_url": "https://manybooks.net/titles/ruskinjo1916419164-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "25",
+    "title": "Sea Of Dreams Sea Of Dreams",
+    "authors": "DA Henneman",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/61sNPQbb8kL._SL1350_.jpg",
+    "source_url": "https://manybooks.net/titles/sea-of-dreams",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "26",
+    "title": "Breeze Spells and Bridegrooms Breeze Spells and Bridegrooms",
+    "authors": "Sarah Wallace and S.O. Callahan",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/716QPT19odL._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/breeze-spells-and-bridegrooms",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "27",
+    "title": "The Elephant in the Ivy The Elephant in the Ivy",
+    "authors": "Alexander Greengaard",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/9154AjFyUfL._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/the-elephant-in-the-ivy",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "28",
+    "title": "Claimed by the Outlaw Claimed by the Outlaw",
+    "authors": "Rica Lane",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/71fO39Sy6uL._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/claimed-by-the-outlaw",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "29",
+    "title": "Sam Says NO! Sam Says NO!",
+    "authors": "Dean R Giles",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/81iVW7uMLUL._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/sam-says-no",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "30",
+    "title": "The Billionaire’s Secret Heart The Billionaire’s Secret Heart",
+    "authors": "Ivy Layne",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/71sVXwszHJL._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/the-billionaires-secret-heart",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "31",
+    "title": "A Convenient Risk A Convenient Risk",
+    "authors": "Sara R Turnquist",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/51XwEhjwGpL._SY445_SX342_.jpg",
+    "source_url": "https://manybooks.net/titles/a-convenient-risk",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "32",
+    "title": "The Asteroid Heist The Asteroid Heist",
+    "authors": "Rex Hurst",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/71SDXK_2BFCUL._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/the-asteroid-heist",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "33",
+    "title": "the moment we met was a lie - Volume 1 the moment we met was a lie - Volume 1",
+    "authors": "Kari Wiethop",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/71i5Q9aL07L._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/the-moment-we-met-was-a-lie-volume-1",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "34",
+    "title": "The Trojan Treasure Conspiracy The Trojan Treasure Conspiracy",
+    "authors": "Bruce Hutchison",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/81BKM4odRLL._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/the-trojan-treasure-conspiracy",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "35",
+    "title": "The Last Honest Man The Last Honest Man",
+    "authors": "Marek Puchon",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/Screenshot_202025-11-25_20at_2015.20.12.png",
+    "source_url": "https://manybooks.net/titles/the-last-honest-man",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "36",
+    "title": "The Babbling Brook Naked Poker Club, Book 1 The Babbling Brook Naked Poker Club, Book 1",
+    "authors": "Ann Warner",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/71D1tYODTfL._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/the-babbling-brook-naked-poker-club-book-1",
     "manybooks_download_url": "",
     "manybooks_format": "EPUB"
   }

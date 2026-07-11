@@ -1,7 +1,7 @@
 [
   {
     "rank": "1",
-    "title": "Samlede Værker, Tredie Bind",
+    "title": "Samlede Værker, Tredie Bind Samlede Værker, Tredie Bind",
     "authors": "Jeppe Aakjær",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/Group.png",
     "source_url": "https://manybooks.net/titles/aakjaerj3972239722-h.html",
@@ -10,7 +10,7 @@
   },
   {
     "rank": "2",
-    "title": "The Age of Reason",
+    "title": "The Age of Reason The Age of Reason",
     "authors": "D. J. Medley",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-cust-5421.jpg",
     "source_url": "https://manybooks.net/titles/painethoetext03twtp410.html",
@@ -19,7 +19,214 @@
   },
   {
     "rank": "3",
-    "title": "Siddhartha",
+    "title": "Siddhartha Siddhartha",
+    "authors": "Herman Hesse",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-cust-3520.jpg",
+    "source_url": "https://manybooks.net/titles/hesseheretext01siddh10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "4",
+    "title": "Meditations Meditations",
+    "authors": "Emperor of Rome Marcus Aurelius",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-692.jpg",
+    "source_url": "https://manybooks.net/titles/aureliusetext01medma10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "5",
+    "title": "The Bhagavad-Gita The Bhagavad-Gita",
+    "authors": "—",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-43.jpg",
+    "source_url": "https://manybooks.net/titles/anonetext00bgita10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "6",
+    "title": "The Pilgrim's Progress The Pilgrim's Progress",
+    "authors": "John Bunyan",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-1338.jpg",
+    "source_url": "https://manybooks.net/titles/bunyanjoetext94plgrm11.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "7",
+    "title": "The Bible The Bible",
+    "authors": "Anonymous",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-cust-44.jpg",
+    "source_url": "https://manybooks.net/titles/anonetext90kjv10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "8",
+    "title": "The Bishop's Apron The Bishop's Apron",
+    "authors": "W. Somerset Maugham",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-47523.jpg",
+    "source_url": "https://manybooks.net/titles/maughamw4752347523-h.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "9",
+    "title": "Hymns and Hymnwriters of Denmark Hymns and Hymnwriters of Denmark",
+    "authors": "Jens Christian Aaberg",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-24959.jpg",
+    "source_url": "https://manybooks.net/titles/aabergj2966629666-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "10",
+    "title": "Sowing and Reaping Sowing and Reaping",
+    "authors": "Dwight L. Moody",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-26126.jpg",
+    "source_url": "https://manybooks.net/titles/moodydl3076830768.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "11",
+    "title": "'Jesus Himself' 'Jesus Himself'",
+    "authors": "Andrew Murray",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-21459.jpg",
+    "source_url": "https://manybooks.net/titles/murraya2600326003.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "12",
+    "title": "The Antichrist The Antichrist",
+    "authors": "Friedrich Wilhelm Nietzsche",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-14453.jpg",
+    "source_url": "https://manybooks.net/titles/nietzsche1932219322-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "13",
+    "title": "The Imitation of Christ The Imitation of Christ",
+    "authors": "Thomas À Kempis",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-4081.jpg",
+    "source_url": "https://manybooks.net/titles/kempisthetext99mcrst11.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "14",
+    "title": "Humility Humility",
+    "authors": "Andrew Murray",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-20080.jpg",
+    "source_url": "https://manybooks.net/titles/murrayaother08Humility.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "15",
+    "title": "The Confessions of Saint Augustine The Confessions of Saint Augustine",
+    "authors": "Saint Augustine",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-689.jpg",
+    "source_url": "https://manybooks.net/titles/augustinetext02tcosa10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "16",
+    "title": "The Antiquities of the Jews The Antiquities of the Jews",
+    "authors": "Flavius Josephus",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-4043.jpg",
+    "source_url": "https://manybooks.net/titles/josephusetext01taofj10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "17",
+    "title": "Worlds Unseen Worlds Unseen",
+    "authors": "Rachel Starr Thomson",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-28930.jpg",
+    "source_url": "https://manybooks.net/titles/thomsonrsother10worlds_unseen.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "18",
+    "title": "The King James Bible The King James Bible",
+    "authors": "Various Authors",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-20394.jpg",
+    "source_url": "https://manybooks.net/titles/variousother08KJV.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "19",
+    "title": "Fourteen Lessons in Yogi Philosophy and Oriental Occul… Fourteen Lessons in Yogi Philosophy and Oriental Occul…",
+    "authors": "Yogi Ramacharaka",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-14900.jpg",
+    "source_url": "https://manybooks.net/titles/ramacharakayother06yogi.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "20",
+    "title": "Fox's Book of Martyrs Fox's Book of Martyrs",
+    "authors": "John Foxe",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-18015.jpg",
+    "source_url": "https://manybooks.net/titles/foxej2240022400-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "21",
+    "title": "'Me and Nobbles' 'Me and Nobbles'",
+    "authors": "Amy le Feuvre",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-17903.jpg",
+    "source_url": "https://manybooks.net/titles/feuvrea2229022290.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "22",
+    "title": "The Abiding Presence of the Holy Ghost in the Soul The Abiding Presence of the Holy Ghost in the Soul",
+    "authors": "Bede Jarrett",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-30068.jpg",
+    "source_url": "https://manybooks.net/titles/jarrettb3485534855-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "23",
+    "title": "Summa Theologica Summa Theologica",
+    "authors": "Saint Thomas Aquinas",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-14066.jpg",
+    "source_url": "https://manybooks.net/titles/aquinast1875518755-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "24",
+    "title": "Deadly Alliances Deadly Alliances",
+    "authors": "Candle Sutton",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/41azwFGlKeL.jpg",
+    "source_url": "https://manybooks.net/titles/deadly-alliances",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "25",
+    "title": "Breadcrumbs: A Collection of Spiritual and Philosophic… Breadcrumbs: A Collection of Spiritual and Philosophic…",
+    "authors": "Francis J. Shaw",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/bread.jpg",
+    "source_url": "https://manybooks.net/titles/breadcrumbs-a-collection-of-spiritual-and-philosophical-essays",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "26",
+    "title": "Siddhartha Siddhartha",
     "authors": "Herman Hesse",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-cust-3520.jpg",
     "source_url": "https://manybooks.net/titles/hesseheretext01siddh10.html",

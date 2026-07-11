@@ -1,7 +1,7 @@
 [
   {
     "rank": "1",
-    "title": "The Time Machine",
+    "title": "The Time Machine The Time Machine",
     "authors": "H. G. Wells",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-cust-7349.jpg",
     "source_url": "https://manybooks.net/titles/wellshgetext92timem11.html",
@@ -10,7 +10,7 @@
   },
   {
     "rank": "2",
-    "title": "The Invisible Man",
+    "title": "The Invisible Man The Invisible Man",
     "authors": "H. G. Wells",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-7340.jpg",
     "source_url": "https://manybooks.net/titles/wellshgetext04nvsbl10.html",
@@ -19,10 +19,262 @@
   },
   {
     "rank": "3",
-    "title": "Anthem",
+    "title": "Anthem Anthem",
     "authors": "Ayn Rand",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-cust-5832.jpg",
     "source_url": "https://manybooks.net/titles/randaynetext98anthm10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "4",
+    "title": "A Journey to the Centre of the Earth A Journey to the Centre of the Earth",
+    "authors": "Jules Verne",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-10748.jpg",
+    "source_url": "https://manybooks.net/titles/vernejul1885718857-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "5",
+    "title": "The Machine Stops The Machine Stops",
+    "authors": "E. M. Forster",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-17173.jpg",
+    "source_url": "https://manybooks.net/titles/forstereother07machine_stops.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "6",
+    "title": "After the Cure After the Cure",
+    "authors": "Deirdre Gould",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/48.jpg",
+    "source_url": "https://manybooks.net/titles/goulddother16afterthecure.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "7",
+    "title": "Accelerando Accelerando",
+    "authors": "Charles Stross",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-cust-10610.jpg",
+    "source_url": "https://manybooks.net/titles/strosscother05accelerando-txt.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "8",
+    "title": "Agent to the Stars Agent to the Stars",
+    "authors": "John Scalzi",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-12996.jpg",
+    "source_url": "https://manybooks.net/titles/scalzijother06agent_to_the_stars.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "9",
+    "title": "''And That's How It Was, Officer'' ''And That's How It Was, Officer''",
+    "authors": "Ralph Sholto",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-27939.jpg",
+    "source_url": "https://manybooks.net/titles/sholtor3256232562.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "10",
+    "title": "2 B R O 2 B 2 B R O 2 B",
+    "authors": "Kurt Vonnegut",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-16767.jpg",
+    "source_url": "https://manybooks.net/titles/vonnegutk2127921279.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "11",
+    "title": "For the Win For the Win",
+    "authors": "Cory Doctorow",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-27708.jpg",
+    "source_url": "https://manybooks.net/titles/doctorowother10for_the_win.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "12",
+    "title": "Accidental Death Accidental Death",
+    "authors": "Peter Baily",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-19958.jpg",
+    "source_url": "https://manybooks.net/titles/bailyp2451724517.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "13",
+    "title": "The Aliens The Aliens",
+    "authors": "Murray Leinster",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-19571.jpg",
+    "source_url": "https://manybooks.net/titles/leinsterm2410424104.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "14",
+    "title": "...After a Few Words... ...After a Few Words...",
+    "authors": "Randall Garrett",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-19464.jpg",
+    "source_url": "https://manybooks.net/titles/garrettgr2396023960-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "15",
+    "title": "From the Earth to the Moon From the Earth to the Moon",
+    "authors": "Jules Verne",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-7158.jpg",
+    "source_url": "https://manybooks.net/titles/vernejuletext93moon10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "16",
+    "title": "Abandoned Abandoned",
+    "authors": "Jules Verne",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-28789.jpg",
+    "source_url": "https://manybooks.net/titles/vernejul3351633516-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "17",
+    "title": "At the Earth's Core At the Earth's Core",
+    "authors": "Edgar Rice Burroughs",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-1387.jpg",
+    "source_url": "https://manybooks.net/titles/burroughseetext96atcor11.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "18",
+    "title": "Advanced Chemistry Advanced Chemistry",
+    "authors": "Jack G. Huekels",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-22417.jpg",
+    "source_url": "https://manybooks.net/titles/huekelsj2695526955.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "19",
+    "title": "Hellhounds of the Cosmos Hellhounds of the Cosmos",
+    "authors": "Clifford Donald Simak",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-22509.jpg",
+    "source_url": "https://manybooks.net/titles/simakc2701327013.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "20",
+    "title": "The Asteroid Heist The Asteroid Heist",
+    "authors": "Rex Hurst",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/71SDXK_2BFCUL._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/the-asteroid-heist",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "21",
+    "title": "Hidden City Hidden City",
+    "authors": "M S Lawson",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/08d1e7f9-199e-48f3-91e7-f5d2a1473026.jpg",
+    "source_url": "https://manybooks.net/titles/hidden-city",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "22",
+    "title": "Playing in The Rain Playing in The Rain",
+    "authors": "Sandra. J. Jackson",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/91Ab0EH10BL._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/playing-in-the-rain",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "23",
+    "title": "Dawn of Rebellion Dawn of Rebellion",
+    "authors": "Michelle Lynn",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/91HfHF_2BFNKL._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/dawn-of-rebellion",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "24",
+    "title": "Blackwing Blackwing",
+    "authors": "Stephen Drake",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/91KbzQkmoUL._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/blackwing",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "25",
+    "title": "28 Days 28 Days",
+    "authors": "Sue Parritt",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/81KTtaZUNbS._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/28-days",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "26",
+    "title": "Genesis Genesis",
+    "authors": "Nicolette Fuller",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/81Ug4hbbK2L._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/genesis-0",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "27",
+    "title": "War Of The Animals War Of The Animals",
+    "authors": "Jonathan DeCoteau",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/8157SgW4qjL._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/war-of-the-animals",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "28",
+    "title": "When Totems Fall When Totems Fall",
+    "authors": "Wayne C Stewart",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/41inUaUyziL.jpg",
+    "source_url": "https://manybooks.net/titles/when-totems-fall",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "29",
+    "title": "Desa Kincaid - Bounty Hunter Desa Kincaid - Bounty Hunter",
+    "authors": "R.S. Penney",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/51QR6kx0DrL.jpeg",
+    "source_url": "https://manybooks.net/titles/desa-kincaid-bounty-hunter",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "30",
+    "title": "Firmament: Radialloy Firmament: Radialloy",
+    "authors": "J. Grace Pennington",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/512sIyTDRYL.jpeg",
+    "source_url": "https://manybooks.net/titles/firmament-radialloy",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "31",
+    "title": "Call of the Goddess Call of the Goddess",
+    "authors": "Elizabeth N. Love",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/51Z_2B20GyV6L.jpeg",
+    "source_url": "https://manybooks.net/titles/call-of-the-goddess",
     "manybooks_download_url": "",
     "manybooks_format": "EPUB"
   }

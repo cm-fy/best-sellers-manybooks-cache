@@ -1,7 +1,7 @@
 [
   {
     "rank": "1",
-    "title": "The Best Ghost Stories",
+    "title": "The Best Ghost Stories The Best Ghost Stories",
     "authors": "—",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-13007.jpg",
     "source_url": "https://manybooks.net/titles/various1789317893-8.html",
@@ -10,7 +10,7 @@
   },
   {
     "rank": "2",
-    "title": "Clarimonde",
+    "title": "Clarimonde Clarimonde",
     "authors": "Théophile Gautier",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-18294.jpg",
     "source_url": "https://manybooks.net/titles/gautiert2266122661-8.html",
@@ -19,10 +19,199 @@
   },
   {
     "rank": "3",
-    "title": "The Canterville Ghost",
+    "title": "The Canterville Ghost The Canterville Ghost",
     "authors": "Oscar Wilde",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-9763.jpg",
     "source_url": "https://manybooks.net/titles/wildeosc14521452214522-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "4",
+    "title": "The Abbot's Ghost, (A Christmas Story) The Abbot's Ghost, (A Christmas Story)",
+    "authors": "Louisa May Alcott",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-489.jpg",
+    "source_url": "https://manybooks.net/titles/alcottloetext058abgh10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "5",
+    "title": "Across the Stream Across the Stream",
+    "authors": "E. F. Benson",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-22394.jpg",
+    "source_url": "https://manybooks.net/titles/bensonefother08Across_the_stream.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "6",
+    "title": "The Book of Dreams and Ghosts The Book of Dreams and Ghosts",
+    "authors": "Andrew Lang",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-17555.jpg",
+    "source_url": "https://manybooks.net/titles/langandr1262112621.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "7",
+    "title": "At the Ghost Hour At the Ghost Hour",
+    "authors": "Paul Heyse",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-cust-29335.jpg",
+    "source_url": "https://manybooks.net/titles/heysepau3387833878-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "8",
+    "title": "The Damned The Damned",
+    "authors": "Algernon Blackwood",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-cust-8129.jpg",
+    "source_url": "https://manybooks.net/titles/blackwoo11071107411074.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "9",
+    "title": "Byways of Ghost-Land Byways of Ghost-Land",
+    "authors": "Elliott O'Donnell",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-25762.jpg",
+    "source_url": "https://manybooks.net/titles/odonnelle3044030440-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "10",
+    "title": "Black Spirits and White Black Spirits and White",
+    "authors": "Ralph Adams Cram",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-22118.jpg",
+    "source_url": "https://manybooks.net/titles/cramr2668726687-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "11",
+    "title": "The Empty House and Other Ghost Stories The Empty House and Other Ghost Stories",
+    "authors": "Algernon Blackwood",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-12621.jpg",
+    "source_url": "https://manybooks.net/titles/blackwoo1447114471-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "12",
+    "title": "Carnacki, The Ghost Finder Carnacki, The Ghost Finder",
+    "authors": "William Hope Hodgson",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-8008.jpg",
+    "source_url": "https://manybooks.net/titles/hodgsonw10831083210832.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "13",
+    "title": "The Body-Snatcher The Body-Snatcher",
+    "authors": "Robert Louis Stevenson",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-23922.jpg",
+    "source_url": "https://manybooks.net/titles/stevensonroother09body-snatcher.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "14",
+    "title": "Ghosts and Family Legends Ghosts and Family Legends",
+    "authors": "Catherine Crowe",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-31471.jpg",
+    "source_url": "https://manybooks.net/titles/crowec3948539485-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "15",
+    "title": "Apparitions Apparitions",
+    "authors": "Joseph Taylor",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-26746.jpg",
+    "source_url": "https://manybooks.net/titles/taylorjoseph3134131341-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "16",
+    "title": "The Ebony Frame The Ebony Frame",
+    "authors": "E. Nesbit",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-22345.jpg",
+    "source_url": "https://manybooks.net/titles/nesbiteother08ebony_frame.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "17",
+    "title": "The Haunted House The Haunted House",
+    "authors": "Walter Hubbell",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-11438.jpg",
+    "source_url": "https://manybooks.net/titles/hubbellw1697516975.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "18",
+    "title": "Indian Ghost Stories Indian Ghost Stories",
+    "authors": "S. Mukerji",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-11834.jpg",
+    "source_url": "https://manybooks.net/titles/mukerjis1711317113-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "19",
+    "title": "Afterward Afterward",
+    "authors": "Edith Wharton",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-17776.jpg",
+    "source_url": "https://manybooks.net/titles/whartoneother07afterward.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "20",
+    "title": "The Ghost Pirates The Ghost Pirates",
+    "authors": "William Hope Hodgson",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-8050.jpg",
+    "source_url": "https://manybooks.net/titles/hodgsonw10961096610966.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "21",
+    "title": "Masterpieces of Mystery in Four Volumes Masterpieces of Mystery in Four Volumes",
+    "authors": "—",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-23056.jpg",
+    "source_url": "https://manybooks.net/titles/various2772227722-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "22",
+    "title": "The Deserted House The Deserted House",
+    "authors": "E. T. A. Hoffmann",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-15027.jpg",
+    "source_url": "https://manybooks.net/titles/hoffmannetother06Deserted_House.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "23",
+    "title": "The Haunted Hotel The Haunted Hotel",
+    "authors": "Wilkie Collins",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-1794.jpg",
+    "source_url": "https://manybooks.net/titles/collinswetext94hhotl10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "24",
+    "title": "Remembrance Remembrance",
+    "authors": "T.K. Eldridge",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/Remembrance.jpg",
+    "source_url": "https://manybooks.net/titles/remembrance",
     "manybooks_download_url": "",
     "manybooks_format": "EPUB"
   }

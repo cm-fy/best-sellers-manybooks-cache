@@ -1,7 +1,7 @@
 [
   {
     "rank": "1",
-    "title": "Palmistry for All",
+    "title": "Palmistry for All Palmistry for All",
     "authors": "Cheiro",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-15945.jpg",
     "source_url": "https://manybooks.net/titles/cheiro2048020480-8.html",
@@ -10,7 +10,7 @@
   },
   {
     "rank": "2",
-    "title": "Clarimonde",
+    "title": "Clarimonde Clarimonde",
     "authors": "Théophile Gautier",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-18294.jpg",
     "source_url": "https://manybooks.net/titles/gautiert2266122661-8.html",
@@ -19,10 +19,235 @@
   },
   {
     "rank": "3",
-    "title": "Clairvoyance and Occult Powers",
+    "title": "Clairvoyance and Occult Powers Clairvoyance and Occult Powers",
     "authors": "William Walker Atkinson",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-12747.jpg",
     "source_url": "https://manybooks.net/titles/panchadasis1248012480.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "4",
+    "title": "Black Magic Black Magic",
+    "authors": "Marjorie Bowen",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-29513.jpg",
+    "source_url": "https://manybooks.net/titles/bowenmother100605181.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "5",
+    "title": "Across the Stream Across the Stream",
+    "authors": "E. F. Benson",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-22394.jpg",
+    "source_url": "https://manybooks.net/titles/bensonefother08Across_the_stream.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "6",
+    "title": "Fourteen Lessons in Yogi Philosophy and Oriental Occul… Fourteen Lessons in Yogi Philosophy and Oriental Occul…",
+    "authors": "Yogi Ramacharaka",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-14900.jpg",
+    "source_url": "https://manybooks.net/titles/ramacharakayother06yogi.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "7",
+    "title": "Hidden Symbolism of Alchemy and the Occult Arts Hidden Symbolism of Alchemy and the Occult Arts",
+    "authors": "Herbert Silberer",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-23094.jpg",
+    "source_url": "https://manybooks.net/titles/silbererh2775527755-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "8",
+    "title": "An Outline of Occult Science An Outline of Occult Science",
+    "authors": "Rudolph Steiner",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-26084.jpg",
+    "source_url": "https://manybooks.net/titles/steinerr3071830718-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "9",
+    "title": "Byways of Ghost-Land Byways of Ghost-Land",
+    "authors": "Elliott O'Donnell",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-25762.jpg",
+    "source_url": "https://manybooks.net/titles/odonnelle3044030440-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "10",
+    "title": "Winter Trials (Northern Witch #1) Winter Trials (Northern Witch #1)",
+    "authors": "K.S. Marsden",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/ebook.jpg",
+    "source_url": "https://manybooks.net/titles/winter-trials-northern-witch-1",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "11",
+    "title": "The Centaur The Centaur",
+    "authors": "Algernon Blackwood",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-cust-12403.jpg",
+    "source_url": "https://manybooks.net/titles/blackwooetext068cntr10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "12",
+    "title": "A History of Witchcraft in England from 1558 to 1718 A History of Witchcraft in England from 1558 to 1718",
+    "authors": "Wallace Notestein",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-26889.jpg",
+    "source_url": "https://manybooks.net/titles/notesteinw3151131511-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "13",
+    "title": "The Cry at Midnight The Cry at Midnight",
+    "authors": "Mildred Augustine Wirt",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-29685.jpg",
+    "source_url": "https://manybooks.net/titles/wirtm3444134441.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "14",
+    "title": "How to Read the Crystal How to Read the Crystal",
+    "authors": "Walter Gorn Old",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-22064.jpg",
+    "source_url": "https://manybooks.net/titles/oldwg2662226622-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "15",
+    "title": "Occult Chemistry Occult Chemistry",
+    "authors": "C. W. Leadbeater / Annie Besant",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-10562.jpg",
+    "source_url": "https://manybooks.net/titles/besantan16051605816058-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "16",
+    "title": "The Conjure Woman The Conjure Woman",
+    "authors": "Charles W. Chesnutt",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-11811.jpg",
+    "source_url": "https://manybooks.net/titles/chesnutt1166611666.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "17",
+    "title": "Studies in Occultism; A Series of Reprints from the Wr… Studies in Occultism; A Series of Reprints from the Wr…",
+    "authors": "Helena Petrovna Blavatsky",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-11738.jpg",
+    "source_url": "https://manybooks.net/titles/blavatsk1700917009-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "18",
+    "title": "The Mystery of the Four Fingers The Mystery of the Four Fingers",
+    "authors": "Fred M. White",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-12254.jpg",
+    "source_url": "https://manybooks.net/titles/whitefreetext06my4fn10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "19",
+    "title": "Dr Nikola's Experiment Dr Nikola's Experiment",
+    "authors": "Guy Newell Boothby",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-26433.jpg",
+    "source_url": "https://manybooks.net/titles/boothbygother10Nikolas_Experiment.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "20",
+    "title": "Dearest Dearest",
+    "authors": "H. Beam Piper",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-14527.jpg",
+    "source_url": "https://manybooks.net/titles/piperh1910219102.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "21",
+    "title": "The Witch-cult in Western Europe The Witch-cult in Western Europe",
+    "authors": "M. A. Murray",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-15876.jpg",
+    "source_url": "https://manybooks.net/titles/murraym2041120411-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "22",
+    "title": "The Flying Death The Flying Death",
+    "authors": "Samuel Hopkins Adams",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-23961.jpg",
+    "source_url": "https://manybooks.net/titles/adamssamhother09flying_death.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "23",
+    "title": "Second Sight Second Sight",
+    "authors": "Walter Gorn Old",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-22083.jpg",
+    "source_url": "https://manybooks.net/titles/oldwg2663326633-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "24",
+    "title": "The Camera Fiend The Camera Fiend",
+    "authors": "E. W. Hornung",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-25389.jpg",
+    "source_url": "https://manybooks.net/titles/hornunge3009630096-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "25",
+    "title": "The Ghost Signal The Ghost Signal",
+    "authors": "Jimmy Ghinis",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/ghost.jpg",
+    "source_url": "https://manybooks.net/titles/the-ghost-signal",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "26",
+    "title": "Revolt of the Rats Revolt of the Rats",
+    "authors": "Reed Blitzerman",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/rats.jpg",
+    "source_url": "https://manybooks.net/titles/revolt-of-the-rats",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "27",
+    "title": "Winter Trials (Northern Witch #1) Winter Trials (Northern Witch #1)",
+    "authors": "K.S. Marsden",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/ebook.jpg",
+    "source_url": "https://manybooks.net/titles/winter-trials-northern-witch-1",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "28",
+    "title": "The Shadow Rises (Witch-Hunter #1) The Shadow Rises (Witch-Hunter #1)",
+    "authors": "K.S. Marsden",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/17972985.jpg",
+    "source_url": "https://manybooks.net/titles/the-shadow-rises-witch-hunter-1",
     "manybooks_download_url": "",
     "manybooks_format": "EPUB"
   }

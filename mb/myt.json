@@ -1,7 +1,7 @@
 [
   {
     "rank": "1",
-    "title": "Le Morte D'Arthur, vol 2",
+    "title": "Le Morte D'Arthur, vol 2 Le Morte D'Arthur, vol 2",
     "authors": "Thomas Malory",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-4692.jpg",
     "source_url": "https://manybooks.net/titles/malorythetext982mart10.html",
@@ -10,7 +10,7 @@
   },
   {
     "rank": "2",
-    "title": "Le Morte D'Arthur, vol 1",
+    "title": "Le Morte D'Arthur, vol 1 Le Morte D'Arthur, vol 1",
     "authors": "Sir Malory Thomas",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-4691.jpg",
     "source_url": "https://manybooks.net/titles/malorythetext981mart10.html",
@@ -19,10 +19,181 @@
   },
   {
     "rank": "3",
-    "title": "The Adventures of Odysseus and The Tales of Troy",
+    "title": "The Adventures of Odysseus and The Tales of Troy The Adventures of Odysseus and The Tales of Troy",
     "authors": "Padraic Colum",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-10779.jpg",
     "source_url": "https://manybooks.net/titles/columpad1686716867-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "4",
+    "title": "A Book of Myths A Book of Myths",
+    "authors": "Jean Lang",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-18335.jpg",
+    "source_url": "https://manybooks.net/titles/langjean2269322693-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "5",
+    "title": "Ancient Tales and Folk-Lore of Japan Ancient Tales and Folk-Lore of Japan",
+    "authors": "Richard Gordon Smith",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-13384.jpg",
+    "source_url": "https://manybooks.net/titles/smithrother06ancient_tales_folklore.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "6",
+    "title": "Myths of Greece and Rome Myths of Greece and Rome",
+    "authors": "H. A. Guerber",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-39250.jpg",
+    "source_url": "https://manybooks.net/titles/guerberh3925039250-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "7",
+    "title": "The Babylonian Legends of the Creation The Babylonian Legends of the Creation",
+    "authors": "Ernest Alfred Wallis Budge",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-10842.jpg",
+    "source_url": "https://manybooks.net/titles/museumbetext068blgc10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "8",
+    "title": "An Old Babylonian Version of the Gilgamesh Epic An Old Babylonian Version of the Gilgamesh Epic",
+    "authors": "Morris Jastrow / Albert Tobias Clay",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-14064.jpg",
+    "source_url": "https://manybooks.net/titles/anon1100011000-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "9",
+    "title": "The Age of Fable The Age of Fable",
+    "authors": "Thomas Bulfinch",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-1299.jpg",
+    "source_url": "https://manybooks.net/titles/bullfincetext04thgff10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "10",
+    "title": "Legends of Gods and Ghosts (Hawaiian Mythology) Legends of Gods and Ghosts (Hawaiian Mythology)",
+    "authors": "W. D. Westervelt",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-31422.jpg",
+    "source_url": "https://manybooks.net/titles/westerveltw3919539195.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "11",
+    "title": "Babylonian Story of the Deluge Babylonian Story of the Deluge",
+    "authors": "E. A. Wallis Budge",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-1293.jpg",
+    "source_url": "https://manybooks.net/titles/budgeeawetext048bbdl10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "12",
+    "title": "The Book of Nature Myths The Book of Nature Myths",
+    "authors": "Florence Holbrook",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-18041.jpg",
+    "source_url": "https://manybooks.net/titles/holbrookf2242022420-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "13",
+    "title": "The Science of Fairy Tales The Science of Fairy Tales",
+    "authors": "Edwin Sidney Hartland",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-20073.jpg",
+    "source_url": "https://manybooks.net/titles/hartlande2461424614-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "14",
+    "title": "Myths That Every Child Should Know Myths That Every Child Should Know",
+    "authors": "Various Authors",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-11443.jpg",
+    "source_url": "https://manybooks.net/titles/various1653716537-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "15",
+    "title": "Classic Myths Classic Myths",
+    "authors": "Mary Catherine Judd",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-12758.jpg",
+    "source_url": "https://manybooks.net/titles/juddmetext06myths10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "16",
+    "title": "Irish Wonders Irish Wonders",
+    "authors": "D. R. McAnally",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-14917.jpg",
+    "source_url": "https://manybooks.net/titles/mcanallyd1948619486-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "17",
+    "title": "The Belief in Immortality and the Worship of the Dead The Belief in Immortality and the Worship of the Dead",
+    "authors": "Sir James George Frazer",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-15566.jpg",
+    "source_url": "https://manybooks.net/titles/frazerja2011620116-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "18",
+    "title": "Aino Folk-Tales Aino Folk-Tales",
+    "authors": "Basil Hall Chamberlain",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-24595.jpg",
+    "source_url": "https://manybooks.net/titles/chamberlainb2928729287-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "19",
+    "title": "Myths and Marvels of Astronomy Myths and Marvels of Astronomy",
+    "authors": "Richard A. Proctor",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-22012.jpg",
+    "source_url": "https://manybooks.net/titles/proctorr2655626556-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "20",
+    "title": "The Literature of the Ancient Egyptians The Literature of the Ancient Egyptians",
+    "authors": "Ernest Alfred Wallis Budge",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-10461.jpg",
+    "source_url": "https://manybooks.net/titles/budgeeaw15931593215932-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "21",
+    "title": "Kwaidan Kwaidan",
+    "authors": "Lafcadio Hearn",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-3424.jpg",
+    "source_url": "https://manybooks.net/titles/hearnlafetext98kwidn10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "22",
+    "title": "Shimmer Shimmer",
+    "authors": "Claudette Melanson",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/Shimmer_COV.jpg",
+    "source_url": "https://manybooks.net/titles/shimmer",
     "manybooks_download_url": "",
     "manybooks_format": "EPUB"
   }

@@ -1,7 +1,7 @@
 [
   {
     "rank": "1",
-    "title": "Captain Blood",
+    "title": "Captain Blood Captain Blood",
     "authors": "Rafael Sabatini",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-6054.jpg",
     "source_url": "https://manybooks.net/titles/sabatinietext99cpbld11.html",
@@ -10,7 +10,7 @@
   },
   {
     "rank": "2",
-    "title": "Across the Spanish Main",
+    "title": "Across the Spanish Main Across the Spanish Main",
     "authors": "Harry Collingwood",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-19893.jpg",
     "source_url": "https://manybooks.net/titles/collingwoodh2445424454.html",
@@ -19,10 +19,298 @@
   },
   {
     "rank": "3",
-    "title": "The Coral Island",
+    "title": "The Coral Island The Coral Island",
     "authors": "Robert Michael Ballantyne",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-748.jpg",
     "source_url": "https://manybooks.net/titles/ballantyetext96coril10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "4",
+    "title": "Among Malay Pirates Among Malay Pirates",
+    "authors": "G. A. Henty",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-3471.jpg",
+    "source_url": "https://manybooks.net/titles/hentygaetext05pirat10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "5",
+    "title": "Blackbeard Blackbeard",
+    "authors": "B. Barker",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-12963.jpg",
+    "source_url": "https://manybooks.net/titles/barkerb1786317863.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "6",
+    "title": "The Ghost Pirates The Ghost Pirates",
+    "authors": "William Hope Hodgson",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-8050.jpg",
+    "source_url": "https://manybooks.net/titles/hodgsonw10961096610966.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "7",
+    "title": "Blackbeard: Buccaneer Blackbeard: Buccaneer",
+    "authors": "Ralph Delahaye Paine",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-20898.jpg",
+    "source_url": "https://manybooks.net/titles/painer2547225472-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "8",
+    "title": "The Book of Buried Treasure The Book of Buried Treasure",
+    "authors": "Ralph Delahaye Paine",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-28615.jpg",
+    "source_url": "https://manybooks.net/titles/painer3331833318-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "9",
+    "title": "The Lady and the Pirate The Lady and the Pirate",
+    "authors": "Emerson Hough",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-20403.jpg",
+    "source_url": "https://manybooks.net/titles/hougheme2490724907-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "10",
+    "title": "Caribbee Caribbee",
+    "authors": "Thomas Hoover",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-28573.jpg",
+    "source_url": "https://manybooks.net/titles/hoovertother10Caribbee.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "11",
+    "title": "Peter and Wendy Peter and Wendy",
+    "authors": "J. M. Barrie",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-22096.jpg",
+    "source_url": "https://manybooks.net/titles/barrieja2665426654-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "12",
+    "title": "On the Trail of the Space Pirates On the Trail of the Space Pirates",
+    "authors": "Carey Rockwell",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-16595.jpg",
+    "source_url": "https://manybooks.net/titles/rockwellc2109221092-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "13",
+    "title": "Westward Ho! Westward Ho!",
+    "authors": "Charles Kingsley",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-4127.jpg",
+    "source_url": "https://manybooks.net/titles/kingsleychetext99wstho10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "14",
+    "title": "Doctor Syn Doctor Syn",
+    "authors": "Russell Thorndyke",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-27828.jpg",
+    "source_url": "https://manybooks.net/titles/thorndykerother10Doctor_Syn.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "15",
+    "title": "Ella Eris and the Pirates of Redemption Ella Eris and the Pirates of Redemption",
+    "authors": "Albert Berg",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-28987.jpg",
+    "source_url": "https://manybooks.net/titles/bergaother10Pirates_of_Redemption.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "16",
+    "title": "Captain Brand of the ''Centipede'' Captain Brand of the ''Centipede''",
+    "authors": "Henry A. Wise",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-24369.jpg",
+    "source_url": "https://manybooks.net/titles/wiseh2904729047-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "17",
+    "title": "Kate Bonnet Kate Bonnet",
+    "authors": "Frank R. Stockton",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-11694.jpg",
+    "source_url": "https://manybooks.net/titles/stockton1705317053-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "18",
+    "title": "Famous Privateersmen and Adventurers of the Sea Famous Privateersmen and Adventurers of the Sea",
+    "authors": "Charles Haven Ladd Johnston",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-22420.jpg",
+    "source_url": "https://manybooks.net/titles/johnstonchl2696026960-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "19",
+    "title": "The Corsair King The Corsair King",
+    "authors": "Mór Jókai",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-22314.jpg",
+    "source_url": "https://manybooks.net/titles/jokaim2686526865-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "20",
+    "title": "The Great Quest The Great Quest",
+    "authors": "Charles Boardman Hawes",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-19946.jpg",
+    "source_url": "https://manybooks.net/titles/haweschaother08Great_Quest_newbery.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "21",
+    "title": "Sir Henry Morgan, Buccaneer Sir Henry Morgan, Buccaneer",
+    "authors": "Cyrus Townsend Brady",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-24614.jpg",
+    "source_url": "https://manybooks.net/titles/bradyc2931629316-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "22",
+    "title": "The Expedition to Borneo of H.M.S. Dido The Expedition to Borneo of H.M.S. Dido",
+    "authors": "Sir Keppel Henry / James Brooke",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-18366.jpg",
+    "source_url": "https://manybooks.net/titles/keppelh2290322903-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "23",
+    "title": "A Pirate of the Caribbees A Pirate of the Caribbees",
+    "authors": "Harry Collingwood",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-16576.jpg",
+    "source_url": "https://manybooks.net/titles/collingwoodh2107321073.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "24",
+    "title": "Sea Of Dreams Sea Of Dreams",
+    "authors": "DA Henneman",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/61sNPQbb8kL._SL1350_.jpg",
+    "source_url": "https://manybooks.net/titles/sea-of-dreams",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "25",
+    "title": "Breeze Spells and Bridegrooms Breeze Spells and Bridegrooms",
+    "authors": "Sarah Wallace and S.O. Callahan",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/716QPT19odL._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/breeze-spells-and-bridegrooms",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "26",
+    "title": "The Elephant in the Ivy The Elephant in the Ivy",
+    "authors": "Alexander Greengaard",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/9154AjFyUfL._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/the-elephant-in-the-ivy",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "27",
+    "title": "Claimed by the Outlaw Claimed by the Outlaw",
+    "authors": "Rica Lane",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/71fO39Sy6uL._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/claimed-by-the-outlaw",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "28",
+    "title": "Sam Says NO! Sam Says NO!",
+    "authors": "Dean R Giles",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/81iVW7uMLUL._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/sam-says-no",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "29",
+    "title": "The Billionaire’s Secret Heart The Billionaire’s Secret Heart",
+    "authors": "Ivy Layne",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/71sVXwszHJL._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/the-billionaires-secret-heart",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "30",
+    "title": "A Convenient Risk A Convenient Risk",
+    "authors": "Sara R Turnquist",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/51XwEhjwGpL._SY445_SX342_.jpg",
+    "source_url": "https://manybooks.net/titles/a-convenient-risk",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "31",
+    "title": "The Asteroid Heist The Asteroid Heist",
+    "authors": "Rex Hurst",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/71SDXK_2BFCUL._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/the-asteroid-heist",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "32",
+    "title": "the moment we met was a lie - Volume 1 the moment we met was a lie - Volume 1",
+    "authors": "Kari Wiethop",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/71i5Q9aL07L._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/the-moment-we-met-was-a-lie-volume-1",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "33",
+    "title": "The Trojan Treasure Conspiracy The Trojan Treasure Conspiracy",
+    "authors": "Bruce Hutchison",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/81BKM4odRLL._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/the-trojan-treasure-conspiracy",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "34",
+    "title": "The Last Honest Man The Last Honest Man",
+    "authors": "Marek Puchon",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/Screenshot_202025-11-25_20at_2015.20.12.png",
+    "source_url": "https://manybooks.net/titles/the-last-honest-man",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "35",
+    "title": "The Babbling Brook Naked Poker Club, Book 1 The Babbling Brook Naked Poker Club, Book 1",
+    "authors": "Ann Warner",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/71D1tYODTfL._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/the-babbling-brook-naked-poker-club-book-1",
     "manybooks_download_url": "",
     "manybooks_format": "EPUB"
   }

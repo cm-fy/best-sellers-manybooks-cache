@@ -1,7 +1,7 @@
 [
   {
     "rank": "1",
-    "title": "Daddy-Long-Legs",
+    "title": "Daddy-Long-Legs Daddy-Long-Legs",
     "authors": "Jean Webster",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-7313.jpg",
     "source_url": "https://manybooks.net/titles/websterjeanetext94dlleg10.html",
@@ -10,7 +10,7 @@
   },
   {
     "rank": "2",
-    "title": "The Autobiography of Charles Darwin",
+    "title": "The Autobiography of Charles Darwin The Autobiography of Charles Darwin",
     "authors": "Charles Darwin",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-2025.jpg",
     "source_url": "https://manybooks.net/titles/darwinchetext99adrwn10.html",
@@ -19,10 +19,307 @@
   },
   {
     "rank": "3",
-    "title": "How to Write Letters (Formerly The Book of Letters)",
+    "title": "How to Write Letters (Formerly The Book of Letters) How to Write Letters (Formerly The Book of Letters)",
     "authors": "Mary Owens Crowther",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-17815.jpg",
     "source_url": "https://manybooks.net/titles/crowtherm2222222222-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "4",
+    "title": "Dear Enemy Dear Enemy",
+    "authors": "Jean Webster",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-7314.jpg",
+    "source_url": "https://manybooks.net/titles/websterjeanetext95drnmy10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "5",
+    "title": "Evelina Evelina",
+    "authors": "Fanny Burney",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-1383.jpg",
+    "source_url": "https://manybooks.net/titles/burneyfaetext04eveli10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "6",
+    "title": "Ang Liham ni Dr. Jose Rizal sa mga Kadalagahan sa Malo… Ang Liham ni Dr. Jose Rizal sa mga Kadalagahan sa Malo…",
+    "authors": "José Rizal",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-84.jpg",
+    "source_url": "https://manybooks.net/titles/rizaljos1711617116-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "7",
+    "title": "The Complete Works of Robert Burns The Complete Works of Robert Burns",
+    "authors": "Allan Cunningham / Robert Burns",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-13598.jpg",
+    "source_url": "https://manybooks.net/titles/burnsrob1850018500-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "8",
+    "title": "Advice to a Young Man upon First Going to Oxford Advice to a Young Man upon First Going to Oxford",
+    "authors": "Edward Berens",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-16415.jpg",
+    "source_url": "https://manybooks.net/titles/berense2093220932-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "9",
+    "title": "Jane Austen, Her Life and Letters Jane Austen, Her Life and Letters",
+    "authors": "Richard Arthur Austen-Leigh / William Austen-Leigh",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-18152.jpg",
+    "source_url": "https://manybooks.net/titles/austen-leighr2253622536-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "10",
+    "title": "Briefe aus dem Gefängnis Briefe aus dem Gefängnis",
+    "authors": "Rosa Luxemburg",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-22426.jpg",
+    "source_url": "https://manybooks.net/titles/luxemburgr2696426964-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "11",
+    "title": "Aurelian Aurelian",
+    "authors": "William Ware",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-17493.jpg",
+    "source_url": "https://manybooks.net/titles/warewill2195321953-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "12",
+    "title": "A correspondência de Fradique Mendes A correspondência de Fradique Mendes",
+    "authors": "Eça de Queirós",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-23002.jpg",
+    "source_url": "https://manybooks.net/titles/queirozj2763727637-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "13",
+    "title": "The Letters of Charles Dickens The Letters of Charles Dickens",
+    "authors": "Charles Dickens",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-25852.jpg",
+    "source_url": "https://manybooks.net/titles/dickensc2585225852-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "14",
+    "title": "You Know Me, Al You Know Me, Al",
+    "authors": "Ring Lardner",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-17571.jpg",
+    "source_url": "https://manybooks.net/titles/lardnerrother07You_Know_Me_Al.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "15",
+    "title": "Campaign Pictures of the War in South Africa (1899-190… Campaign Pictures of the War in South Africa (1899-190…",
+    "authors": "A. G. Hales",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-13888.jpg",
+    "source_url": "https://manybooks.net/titles/halesa1613116131-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "16",
+    "title": "Familiar Letters of John Adams and His Wife Abigail Ad… Familiar Letters of John Adams and His Wife Abigail Ad…",
+    "authors": "Abigail Adams / John Adams",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-29346.jpg",
+    "source_url": "https://manybooks.net/titles/adamsabigail3412334123-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "17",
+    "title": "Letters from a Self-Made Merchant to His Son Letters from a Self-Made Merchant to His Son",
+    "authors": "George Horace Lorimer",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-17489.jpg",
+    "source_url": "https://manybooks.net/titles/lorimerg2195921959-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "18",
+    "title": "Letters of a Woman Homesteader Letters of a Woman Homesteader",
+    "authors": "Elinore Pruitt Stewart",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-11548.jpg",
+    "source_url": "https://manybooks.net/titles/stewarte1662316623-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "19",
+    "title": "Correspondance de Voltaire avec le roi de Prusse Correspondance de Voltaire avec le roi de Prusse",
+    "authors": "King of Prussia Frederick II / Voltaire",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-21176.jpg",
+    "source_url": "https://manybooks.net/titles/voltaire2573425734-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "20",
+    "title": "The Great Dome on Mercury The Great Dome on Mercury",
+    "authors": "Arthur Leo Zagat",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-24515.jpg",
+    "source_url": "https://manybooks.net/titles/zagata2919029190.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "21",
+    "title": "From Sea to Sea From Sea to Sea",
+    "authors": "Rudyard Kipling",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-28290.jpg",
+    "source_url": "https://manybooks.net/titles/kiplingr3297732977-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "22",
+    "title": "History of the Negro Race in America from 1619 to 1880… History of the Negro Race in America from 1619 to 1880…",
+    "authors": "George Washington Williams",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-17363.jpg",
+    "source_url": "https://manybooks.net/titles/williamsg2185121851-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "23",
+    "title": "Autobiography and Letters of Orville Dewey, D.D. Autobiography and Letters of Orville Dewey, D.D.",
+    "authors": "Orville Dewey",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-14488.jpg",
+    "source_url": "https://manybooks.net/titles/deweyo1895618956.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "24",
+    "title": "The Love Letters of Henry VIII to Anne Boleyn The Love Letters of Henry VIII to Anne Boleyn",
+    "authors": "King of England Henry VIII",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-27516.jpg",
+    "source_url": "https://manybooks.net/titles/viiihenry3215532155-8.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "25",
+    "title": "Sea Of Dreams Sea Of Dreams",
+    "authors": "DA Henneman",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/61sNPQbb8kL._SL1350_.jpg",
+    "source_url": "https://manybooks.net/titles/sea-of-dreams",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "26",
+    "title": "Breeze Spells and Bridegrooms Breeze Spells and Bridegrooms",
+    "authors": "Sarah Wallace and S.O. Callahan",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/716QPT19odL._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/breeze-spells-and-bridegrooms",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "27",
+    "title": "The Elephant in the Ivy The Elephant in the Ivy",
+    "authors": "Alexander Greengaard",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/9154AjFyUfL._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/the-elephant-in-the-ivy",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "28",
+    "title": "Claimed by the Outlaw Claimed by the Outlaw",
+    "authors": "Rica Lane",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/71fO39Sy6uL._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/claimed-by-the-outlaw",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "29",
+    "title": "Sam Says NO! Sam Says NO!",
+    "authors": "Dean R Giles",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/81iVW7uMLUL._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/sam-says-no",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "30",
+    "title": "The Billionaire’s Secret Heart The Billionaire’s Secret Heart",
+    "authors": "Ivy Layne",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/71sVXwszHJL._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/the-billionaires-secret-heart",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "31",
+    "title": "A Convenient Risk A Convenient Risk",
+    "authors": "Sara R Turnquist",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/51XwEhjwGpL._SY445_SX342_.jpg",
+    "source_url": "https://manybooks.net/titles/a-convenient-risk",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "32",
+    "title": "The Asteroid Heist The Asteroid Heist",
+    "authors": "Rex Hurst",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/71SDXK_2BFCUL._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/the-asteroid-heist",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "33",
+    "title": "the moment we met was a lie - Volume 1 the moment we met was a lie - Volume 1",
+    "authors": "Kari Wiethop",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/71i5Q9aL07L._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/the-moment-we-met-was-a-lie-volume-1",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "34",
+    "title": "The Trojan Treasure Conspiracy The Trojan Treasure Conspiracy",
+    "authors": "Bruce Hutchison",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/81BKM4odRLL._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/the-trojan-treasure-conspiracy",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "35",
+    "title": "The Last Honest Man The Last Honest Man",
+    "authors": "Marek Puchon",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/Screenshot_202025-11-25_20at_2015.20.12.png",
+    "source_url": "https://manybooks.net/titles/the-last-honest-man",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "36",
+    "title": "The Babbling Brook Naked Poker Club, Book 1 The Babbling Brook Naked Poker Club, Book 1",
+    "authors": "Ann Warner",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/71D1tYODTfL._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/the-babbling-brook-naked-poker-club-book-1",
     "manybooks_download_url": "",
     "manybooks_format": "EPUB"
   }
