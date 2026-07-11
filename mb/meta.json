@@ -1,0 +1,510 @@
+{
+  "generated_at": "2026-07-11T15:50:14.539423+00:00",
+  "source": "https://manybooks.net/categories",
+  "lists": [
+    {
+      "slug": "adv",
+      "label": "Adventure",
+      "code": "ADV",
+      "count": 30,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "afr",
+      "label": "African-American Studies",
+      "code": "AFR",
+      "count": 34,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "art",
+      "label": "Art",
+      "code": "ART",
+      "count": 24,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "ban",
+      "label": "Banned Books",
+      "code": "BAN",
+      "count": 33,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "bio",
+      "label": "Biography",
+      "code": "BIO",
+      "count": 27,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "bus",
+      "label": "Business",
+      "code": "BUS",
+      "count": 25,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "can",
+      "label": "Canadian Literature",
+      "code": "CAN",
+      "count": 24,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "cla",
+      "label": "Classic",
+      "code": "CLA",
+      "count": 23,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "com",
+      "label": "Computers",
+      "code": "COM",
+      "count": 36,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "coo",
+      "label": "Cooking",
+      "code": "COO",
+      "count": 25,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "cor",
+      "label": "Correspondence",
+      "code": "COR",
+      "count": 36,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "ccl",
+      "label": "Creative Commons",
+      "code": "CCL",
+      "count": 36,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "cri",
+      "label": "Criticism",
+      "code": "CRI",
+      "count": 36,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "dra",
+      "label": "Drama",
+      "code": "DRA",
+      "count": 33,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "spy",
+      "label": "Espionage",
+      "code": "SPY",
+      "count": 25,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "ess",
+      "label": "Essays",
+      "code": "ESS",
+      "count": 26,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "ett",
+      "label": "Etiquette",
+      "code": "ETT",
+      "count": 28,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "fan",
+      "label": "Fantasy",
+      "code": "FAN",
+      "count": 34,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "fic",
+      "label": "Fiction and Literature",
+      "code": "FIC",
+      "count": 34,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "gam",
+      "label": "Games",
+      "code": "GAM",
+      "count": 36,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "gay",
+      "label": "Gay/Lesbian",
+      "code": "GAY",
+      "count": 23,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "gho",
+      "label": "Ghost Stories",
+      "code": "GHO",
+      "count": 24,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "got",
+      "label": "Gothic",
+      "code": "GOT",
+      "count": 25,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "gov",
+      "label": "Government Publication",
+      "code": "GOV",
+      "count": 36,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "har",
+      "label": "Harvard Classics",
+      "code": "HAR",
+      "count": 23,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "hea",
+      "label": "Health",
+      "code": "HEA",
+      "count": 36,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "his",
+      "label": "History",
+      "code": "HIS",
+      "count": 32,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "hor",
+      "label": "Horror",
+      "code": "HOR",
+      "count": 32,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "hum",
+      "label": "Humor",
+      "code": "HUM",
+      "count": 27,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "ins",
+      "label": "Instructional",
+      "code": "INS",
+      "count": 36,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "lan",
+      "label": "Language",
+      "code": "LAN",
+      "count": 33,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "mus",
+      "label": "Music",
+      "code": "MUS",
+      "count": 35,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "mys",
+      "label": "Mystery/Detective",
+      "code": "MYS",
+      "count": 35,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "myt",
+      "label": "Myth",
+      "code": "MYT",
+      "count": 22,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "nat",
+      "label": "Nature",
+      "code": "NAT",
+      "count": 25,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "nau",
+      "label": "Nautical",
+      "code": "NAU",
+      "count": 23,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "non",
+      "label": "Non-fiction",
+      "code": "NON",
+      "count": 29,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "non_downloads",
+      "label": "Non-fiction (by downloads)",
+      "code": "NON",
+      "count": 29,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "occ",
+      "label": "Occult",
+      "code": "OCC",
+      "count": 28,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "per",
+      "label": "Periodical",
+      "code": "PER",
+      "count": 36,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "phi",
+      "label": "Philosophy",
+      "code": "PHI",
+      "count": 24,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "pir",
+      "label": "Pirate Tales",
+      "code": "PIR",
+      "count": 35,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "poe",
+      "label": "Poetry",
+      "code": "POE",
+      "count": 23,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "pol",
+      "label": "Politics",
+      "code": "POL",
+      "count": 23,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "mod",
+      "label": "Post-1930",
+      "code": "MOD",
+      "count": 25,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "psy",
+      "label": "Psychology",
+      "code": "PSY",
+      "count": 25,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "pul",
+      "label": "Pulp",
+      "code": "PUL",
+      "count": 23,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "ran",
+      "label": "Random Selection",
+      "code": "RAN",
+      "count": 13,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "ref",
+      "label": "Reference",
+      "code": "REF",
+      "count": 24,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "rel",
+      "label": "Religion",
+      "code": "REL",
+      "count": 26,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "rom",
+      "label": "Romance",
+      "code": "ROM",
+      "count": 33,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "sat",
+      "label": "Satire",
+      "code": "SAT",
+      "count": 22,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "sci",
+      "label": "Science",
+      "code": "SCI",
+      "count": 35,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "sfc",
+      "label": "Science Fiction",
+      "code": "SFC",
+      "count": 31,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "sex",
+      "label": "Sexuality",
+      "code": "sex",
+      "count": 13,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "sst",
+      "label": "Short Story",
+      "code": "SST",
+      "count": 31,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "sho",
+      "label": "Short Story Collection",
+      "code": "SHO",
+      "count": 24,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "thr",
+      "label": "Thriller",
+      "code": "THR",
+      "count": 35,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "tra",
+      "label": "Travel",
+      "code": "TRA",
+      "count": 24,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "war",
+      "label": "War",
+      "code": "WAR",
+      "count": 22,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "wes",
+      "label": "Western",
+      "code": "WES",
+      "count": 26,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "wom",
+      "label": "Women's Studies",
+      "code": "WOM",
+      "count": 24,
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "slug": "chi",
+      "label": "Young Readers",
+      "code": "CHI",
+      "count": 35,
+      "status": "ok",
+      "error": ""
+    }
+  ]
+}
