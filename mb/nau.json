@@ -1,7 +1,7 @@
 [
   {
     "rank": "1",
-    "title": "Persuasion Persuasion",
+    "title": "Persuasion",
     "authors": "Jane Austen",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-698.jpg",
     "source_url": "https://manybooks.net/titles/austenjaetext94persu11.html",
@@ -10,7 +10,7 @@
   },
   {
     "rank": "2",
-    "title": "Three Men in a Boat Three Men in a Boat",
+    "title": "Three Men in a Boat",
     "authors": "Jerome K. Jerome",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-3986.jpg",
     "source_url": "https://manybooks.net/titles/jeromejeetext953boat10.html",
@@ -19,7 +19,7 @@
   },
   {
     "rank": "3",
-    "title": "Robinson Crusoe Robinson Crusoe",
+    "title": "Robinson Crusoe",
     "authors": "Daniel Defoe",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-2118.jpg",
     "source_url": "https://manybooks.net/titles/defoedanetext96rbcru10.html",
@@ -28,7 +28,7 @@
   },
   {
     "rank": "4",
-    "title": "20,000 Leagues Under the Seas (2nd version) 20,000 Leagues Under the Seas (2nd version)",
+    "title": "20,000 Leagues Under the Seas (2nd version)",
     "authors": "Jules Verne",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-7146.jpg",
     "source_url": "https://manybooks.net/titles/vernejuletext012000010a.html",
@@ -37,7 +37,7 @@
   },
   {
     "rank": "5",
-    "title": "The After House The After House",
+    "title": "The After House",
     "authors": "Mary Roberts Rinehart",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-5924.jpg",
     "source_url": "https://manybooks.net/titles/rinehartetext00ftrhs10.html",
@@ -46,7 +46,7 @@
   },
   {
     "rank": "6",
-    "title": "Captain Blood Captain Blood",
+    "title": "Captain Blood",
     "authors": "Rafael Sabatini",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-6054.jpg",
     "source_url": "https://manybooks.net/titles/sabatinietext99cpbld11.html",
@@ -55,7 +55,7 @@
   },
   {
     "rank": "7",
-    "title": "Riders to the Sea Riders to the Sea",
+    "title": "Riders to the Sea",
     "authors": "J. M. Synge",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-6784.jpg",
     "source_url": "https://manybooks.net/titles/syngejmetext97rdrse10.html",
@@ -64,7 +64,7 @@
   },
   {
     "rank": "8",
-    "title": "Billy Budd Billy Budd",
+    "title": "Billy Budd",
     "authors": "Herman Melville",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-26723.jpg",
     "source_url": "https://manybooks.net/titles/melvilleother10billy_budd.html",
@@ -73,7 +73,7 @@
   },
   {
     "rank": "9",
-    "title": "Across the Spanish Main Across the Spanish Main",
+    "title": "Across the Spanish Main",
     "authors": "Harry Collingwood",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-19893.jpg",
     "source_url": "https://manybooks.net/titles/collingwoodh2445424454.html",
@@ -82,7 +82,7 @@
   },
   {
     "rank": "10",
-    "title": "20.000 Mijlen onder Zee: Oostelijk Halfrond 20.000 Mijlen onder Zee: Oostelijk Halfrond",
+    "title": "20.000 Mijlen onder Zee: Oostelijk Halfrond",
     "authors": "Jules Verne",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-20193.jpg",
     "source_url": "https://manybooks.net/titles/vernejul1120511205-8.html",
@@ -91,7 +91,7 @@
   },
   {
     "rank": "11",
-    "title": "Adventure Adventure",
+    "title": "Adventure",
     "authors": "Jack London",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-4468.jpg",
     "source_url": "https://manybooks.net/titles/londonjaetext98advnt10.html",
@@ -100,7 +100,7 @@
   },
   {
     "rank": "12",
-    "title": "Kidnapped Kidnapped",
+    "title": "Kidnapped",
     "authors": "Robert Louis Stevenson",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-11159.jpg",
     "source_url": "https://manybooks.net/titles/stevensonro421421.html",
@@ -109,7 +109,7 @@
   },
   {
     "rank": "13",
-    "title": "The Sea Wolf The Sea Wolf",
+    "title": "The Sea Wolf",
     "authors": "Jack London",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-4493.jpg",
     "source_url": "https://manybooks.net/titles/londonjaetext97cwolf10.html",
@@ -118,7 +118,7 @@
   },
   {
     "rank": "14",
-    "title": "The Wreck of the Titan The Wreck of the Titan",
+    "title": "The Wreck of the Titan",
     "authors": "Morgan Robertson",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-20363.jpg",
     "source_url": "https://manybooks.net/titles/robertsonmor2488024880-8.html",
@@ -127,7 +127,7 @@
   },
   {
     "rank": "15",
-    "title": "The Coral Island The Coral Island",
+    "title": "The Coral Island",
     "authors": "Robert Michael Ballantyne",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-748.jpg",
     "source_url": "https://manybooks.net/titles/ballantyetext96coril10.html",
@@ -136,7 +136,7 @@
   },
   {
     "rank": "16",
-    "title": "The Diary of a U-boat Commander The Diary of a U-boat Commander",
+    "title": "The Diary of a U-boat Commander",
     "authors": "Sir King-Hall Stephen",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-cust-194.jpg",
     "source_url": "https://manybooks.net/titles/anonetext058dubc10.html",
@@ -145,7 +145,7 @@
   },
   {
     "rank": "17",
-    "title": "Among Malay Pirates Among Malay Pirates",
+    "title": "Among Malay Pirates",
     "authors": "G. A. Henty",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-3471.jpg",
     "source_url": "https://manybooks.net/titles/hentygaetext05pirat10.html",
@@ -154,7 +154,7 @@
   },
   {
     "rank": "18",
-    "title": "Blackbeard Blackbeard",
+    "title": "Blackbeard",
     "authors": "B. Barker",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-12963.jpg",
     "source_url": "https://manybooks.net/titles/barkerb1786317863.html",
@@ -163,7 +163,7 @@
   },
   {
     "rank": "19",
-    "title": "Captains Courageous Captains Courageous",
+    "title": "Captains Courageous",
     "authors": "Rudyard Kipling",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-4134.jpg",
     "source_url": "https://manybooks.net/titles/kiplingretext00cptcr11a.html",
@@ -172,7 +172,7 @@
   },
   {
     "rank": "20",
-    "title": "The Loss of the S.S. Titanic The Loss of the S.S. Titanic",
+    "title": "The Loss of the S.S. Titanic",
     "authors": "Lawrence Beesley",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-992.jpg",
     "source_url": "https://manybooks.net/titles/beesleyletext04lsttn10.html",
@@ -181,7 +181,7 @@
   },
   {
     "rank": "21",
-    "title": "20.000 Mijlen onder Zee: Westelijk Halfrond 20.000 Mijlen onder Zee: Westelijk Halfrond",
+    "title": "20.000 Mijlen onder Zee: Westelijk Halfrond",
     "authors": "Jules Verne",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-8237.jpg",
     "source_url": "https://manybooks.net/titles/vernejul11391139311393-8.html",
@@ -190,7 +190,7 @@
   },
   {
     "rank": "22",
-    "title": "Jack Mason, the Old Sailor Jack Mason, the Old Sailor",
+    "title": "Jack Mason, the Old Sailor",
     "authors": "Francis Channing Woodworth",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-12035.jpg",
     "source_url": "https://manybooks.net/titles/thinkert1110511105.html",
@@ -199,7 +199,7 @@
   },
   {
     "rank": "23",
-    "title": "Robinson Crusoe Robinson Crusoe",
+    "title": "Robinson Crusoe",
     "authors": "Daniel Defoe",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-2118.jpg",
     "source_url": "https://manybooks.net/titles/defoedanetext96rbcru10.html",
