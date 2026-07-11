@@ -1,7 +1,7 @@
 [
   {
     "rank": "1",
-    "title": "Three Men in a Boat Three Men in a Boat",
+    "title": "Three Men in a Boat",
     "authors": "Jerome K. Jerome",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-3986.jpg",
     "source_url": "https://manybooks.net/titles/jeromejeetext953boat10.html",
@@ -10,7 +10,7 @@
   },
   {
     "rank": "2",
-    "title": "Around the World in 80 Days Around the World in 80 Days",
+    "title": "Around the World in 80 Days",
     "authors": "Jules Verne",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-7151.jpg",
     "source_url": "https://manybooks.net/titles/vernejuletext9480day11.html",
@@ -19,199 +19,10 @@
   },
   {
     "rank": "3",
-    "title": "Kashmir Kashmir",
+    "title": "Kashmir",
     "authors": "Sir Younghusband Francis Edward",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-39642.jpg",
     "source_url": "https://manybooks.net/titles/younghusbandf3964239642-8.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "4",
-    "title": "A Cathedral Courtship A Cathedral Courtship",
-    "authors": "Kate Douglas Smith Wiggin",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-20916.jpg",
-    "source_url": "https://manybooks.net/titles/wigginka2549325493-8.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "5",
-    "title": "An Account of Egypt An Account of Egypt",
-    "authors": "Herodotus",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-3509.jpg",
-    "source_url": "https://manybooks.net/titles/herodotuetext00agypt10.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "6",
-    "title": "Aztec Land Aztec Land",
-    "authors": "Maturin Murray Ballou",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-25067.jpg",
-    "source_url": "https://manybooks.net/titles/balloum2974729747-8.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "7",
-    "title": "The Economist The Economist",
-    "authors": "Xenophon",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-7636.jpg",
-    "source_url": "https://manybooks.net/titles/xenophonetext98econm10.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "8",
-    "title": "Abissinia Abissinia",
-    "authors": "Giuseppe Vigoni",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-23284.jpg",
-    "source_url": "https://manybooks.net/titles/vigonig2791927919-8.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "9",
-    "title": "Canoeing in the wilderness Canoeing in the wilderness",
-    "authors": "Henry David Thoreau",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-30236.jpg",
-    "source_url": "https://manybooks.net/titles/thoreauh3499034990.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "10",
-    "title": "The Art of Living in Australia The Art of Living in Australia",
-    "authors": "P. E. Muskett",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-5249.jpg",
-    "source_url": "https://manybooks.net/titles/musketpeetext03rtlvs10.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "11",
-    "title": "Beautiful Britain Beautiful Britain",
-    "authors": "Gordon Home",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-19399.jpg",
-    "source_url": "https://manybooks.net/titles/homegord1285712857-8.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "12",
-    "title": "Byways Around San Francisco Bay Byways Around San Francisco Bay",
-    "authors": "William E. Hutchinson",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-16445.jpg",
-    "source_url": "https://manybooks.net/titles/hutchinsonwe1241512415-8.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "13",
-    "title": "Jérusalem Jérusalem",
-    "authors": "Pierre Loti",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-28613.jpg",
-    "source_url": "https://manybooks.net/titles/lotipier3331633316-8.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "14",
-    "title": "Where the Strange Trails Go Down Where the Strange Trails Go Down",
-    "authors": "Edward Alexander Powell",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-22770.jpg",
-    "source_url": "https://manybooks.net/titles/powelle2740427404-8.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "15",
-    "title": "Captain Cook Captain Cook",
-    "authors": "W. H. G. Kingston",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-20233.jpg",
-    "source_url": "https://manybooks.net/titles/kingstonwhg2475524755.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "16",
-    "title": "The Fortunate Isles The Fortunate Isles",
-    "authors": "Mary Stuart Boyd",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-39199.jpg",
-    "source_url": "https://manybooks.net/titles/boydm3919939199-8.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "17",
-    "title": "Alaska Days with John Muir Alaska Days with John Muir",
-    "authors": "Samuel Hall Young",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-26051.jpg",
-    "source_url": "https://manybooks.net/titles/youngsh3069730697-8.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "18",
-    "title": "Chateau and Country Life in France Chateau and Country Life in France",
-    "authors": "Mary Alsop King Waddington",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-12414.jpg",
-    "source_url": "https://manybooks.net/titles/waddingtonm1402914029-8.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "19",
-    "title": "The South Pole The South Pole",
-    "authors": "Roald Amundsen",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-cust-574.jpg",
-    "source_url": "https://manybooks.net/titles/amundsenetext038tsp1210.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "20",
-    "title": "Miss Cayley's Adventures Miss Cayley's Adventures",
-    "authors": "Grant Allen",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-26330.jpg",
-    "source_url": "https://manybooks.net/titles/allengra3097030970-8.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "21",
-    "title": "William Tell Told Again William Tell Told Again",
-    "authors": "Pelham Grenville Wodehouse",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-7589.jpg",
-    "source_url": "https://manybooks.net/titles/wodehousetext058wttt10.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "22",
-    "title": "Following the Equator Following the Equator",
-    "authors": "Mark Twain",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-14724.jpg",
-    "source_url": "https://manybooks.net/titles/twainmar28952895.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "23",
-    "title": "Across Mongolian Plains Across Mongolian Plains",
-    "authors": "Roy Chapman Andrews",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-24352.jpg",
-    "source_url": "https://manybooks.net/titles/andrewsr2902429024-8.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "24",
-    "title": "Around the World in 80 Days Around the World in 80 Days",
-    "authors": "Jules Verne",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-7151.jpg",
-    "source_url": "https://manybooks.net/titles/vernejuletext9480day11.html",
     "manybooks_download_url": "",
     "manybooks_format": "EPUB"
   }

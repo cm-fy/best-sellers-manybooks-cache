@@ -1,7 +1,7 @@
 [
   {
     "rank": "1",
-    "title": "Emma Emma",
+    "title": "Emma",
     "authors": "Jane Austen",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-cust-693.jpg",
     "source_url": "https://manybooks.net/titles/austenjaetext94emma11.html",
@@ -10,7 +10,7 @@
   },
   {
     "rank": "2",
-    "title": "Adventures of Huckleberry Finn Adventures of Huckleberry Finn",
+    "title": "Adventures of Huckleberry Finn",
     "authors": "Mark Twain",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-7032.jpg",
     "source_url": "https://manybooks.net/titles/twainmaretext93hfinn12.html",
@@ -19,226 +19,10 @@
   },
   {
     "rank": "3",
-    "title": "The $30,000 Bequest The $30,000 Bequest",
+    "title": "The $30,000 Bequest",
     "authors": "Mark Twain",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-142.jpg",
     "source_url": "https://manybooks.net/titles/twainmaretext94beqst12.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "4",
-    "title": "Three Men in a Boat Three Men in a Boat",
-    "authors": "Jerome K. Jerome",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-3986.jpg",
-    "source_url": "https://manybooks.net/titles/jeromejeetext953boat10.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "5",
-    "title": "'Oh, Well, You Know How Women Are!' AND 'Isn't That Ju… 'Oh, Well, You Know How Women Are!' AND 'Isn't That Ju…",
-    "authors": "Irvin S. Cobb / Mary Roberts Rinehart",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-19691.jpg",
-    "source_url": "https://manybooks.net/titles/cobbirvi2425924259-8.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "6",
-    "title": "The Canterville Ghost The Canterville Ghost",
-    "authors": "Oscar Wilde",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-9763.jpg",
-    "source_url": "https://manybooks.net/titles/wildeosc14521452214522-8.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "7",
-    "title": "Eve's Diary Eve's Diary",
-    "authors": "Mark Twain",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-11892.jpg",
-    "source_url": "https://manybooks.net/titles/twainmar85258525.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "8",
-    "title": "The Hacker's Dictionary The Hacker's Dictionary",
-    "authors": "—",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-cust-230.jpg",
-    "source_url": "https://manybooks.net/titles/anonetext92jargn10.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "9",
-    "title": "Pygmalion Pygmalion",
-    "authors": "George Bernard Shaw",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-cust-6377.jpg",
-    "source_url": "https://manybooks.net/titles/shawgeoretext03pygml10.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "10",
-    "title": "'A Comedy of Errors' in Seven Acts 'A Comedy of Errors' in Seven Acts",
-    "authors": "Spokeshave",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-16490.jpg",
-    "source_url": "https://manybooks.net/titles/spokeshave2098920989-8.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "11",
-    "title": "An Ideal Husband An Ideal Husband",
-    "authors": "Oscar Wilde",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-7499.jpg",
-    "source_url": "https://manybooks.net/titles/wildeoscetext97ihsbn10.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "12",
-    "title": "The Best American Humorous Short Stories The Best American Humorous Short Stories",
-    "authors": "—",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-cust-8040.jpg",
-    "source_url": "https://manybooks.net/titles/various10941094710947-8.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "13",
-    "title": "The 'Mind the Paint' Girl The 'Mind the Paint' Girl",
-    "authors": "Arthur Wing Pinero",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-17360.jpg",
-    "source_url": "https://manybooks.net/titles/pineroa2184921849-8.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "14",
-    "title": "Petite Confessions Petite Confessions",
-    "authors": "Vicki Lesage",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/41.jpg",
-    "source_url": "https://manybooks.net/titles/lesagevother15petiteconfessions.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "15",
-    "title": "The Adventure of the Eleven Cuff-Buttons The Adventure of the Eleven Cuff-Buttons",
-    "authors": "James Francis Thierry",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-26516.jpg",
-    "source_url": "https://manybooks.net/titles/thierryj3113531135-8.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "16",
-    "title": "Jokes For All Occasions Jokes For All Occasions",
-    "authors": "Anonymous",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-16589.jpg",
-    "source_url": "https://manybooks.net/titles/anon2108421084-8.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "17",
-    "title": "Buddy Holly is Alive and Well on Ganymede Buddy Holly is Alive and Well on Ganymede",
-    "authors": "Bradley Denton",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-24994.jpg",
-    "source_url": "https://manybooks.net/titles/dentonbother09buddy_holly_is_alive_and_well.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "18",
-    "title": "''George Washington's'' Last Duel ''George Washington's'' Last Duel",
-    "authors": "Thomas Nelson Page",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-18517.jpg",
-    "source_url": "https://manybooks.net/titles/pagethom2301323013.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "19",
-    "title": "Candide Candide",
-    "authors": "Voltaire",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-7187.jpg",
-    "source_url": "https://manybooks.net/titles/voltaireetext03candi10.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "20",
-    "title": "Pirates Pirates",
-    "authors": "Colin Campbell Clements",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-31518.jpg",
-    "source_url": "https://manybooks.net/titles/clements3960939609-8.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "21",
-    "title": "Call It Chemistry Call It Chemistry",
-    "authors": "D.J. Van Oss",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/51rsxoF54pL.jpeg",
-    "source_url": "https://manybooks.net/titles/call-it-chemistry",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "22",
-    "title": "Best Laid Plans Best Laid Plans",
-    "authors": "Robyn Kelly",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/bestlaid.jpg",
-    "source_url": "https://manybooks.net/titles/best-laid-plans",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "23",
-    "title": "Trouble Triangle Trouble Triangle",
-    "authors": "Travis Casey",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/troubletriange.jpg",
-    "source_url": "https://manybooks.net/titles/trouble-triangle",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "24",
-    "title": "Fields' Guide to Abduction Fields' Guide to Abduction",
-    "authors": "Julie Mulhern",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/julie.jpg",
-    "source_url": "https://manybooks.net/titles/fields-guide-to-abduction",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "25",
-    "title": "Petite Confessions Petite Confessions",
-    "authors": "Vicki Lesage",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/51TtY_2B1hdHL.jpg",
-    "source_url": "https://manybooks.net/titles/petite-confessions",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "26",
-    "title": "Emma Emma",
-    "authors": "Jane Austen",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-cust-693.jpg",
-    "source_url": "https://manybooks.net/titles/austenjaetext94emma11.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "27",
-    "title": "Petite Confessions Petite Confessions",
-    "authors": "Vicki Lesage",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/41.jpg",
-    "source_url": "https://manybooks.net/titles/lesagevother15petiteconfessions.html",
     "manybooks_download_url": "",
     "manybooks_format": "EPUB"
   }

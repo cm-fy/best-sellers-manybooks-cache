@@ -1,7 +1,7 @@
 [
   {
     "rank": "1",
-    "title": "Etiquette Etiquette",
+    "title": "Etiquette",
     "authors": "Emily Post",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-12105.jpg",
     "source_url": "https://manybooks.net/titles/poste1431414314-8.html",
@@ -10,7 +10,7 @@
   },
   {
     "rank": "2",
-    "title": "Criminal Psychology Criminal Psychology",
+    "title": "Criminal Psychology",
     "authors": "Hans Gross",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-cust-3055.jpg",
     "source_url": "https://manybooks.net/titles/grosshanetext98crmsy10.html",
@@ -19,199 +19,10 @@
   },
   {
     "rank": "3",
-    "title": "10,000 Dreams Interpreted 10,000 Dreams Interpreted",
+    "title": "10,000 Dreams Interpreted",
     "authors": "Gustavus Hindman Miller",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-cust-4941.jpg",
     "source_url": "https://manybooks.net/titles/millerguetext97drmnt10.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "4",
-    "title": "The 2008 CIA World Factbook The 2008 CIA World Factbook",
-    "authors": "United States. Central Intelligence Agency",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-24527.jpg",
-    "source_url": "https://manybooks.net/titles/uscia2923329233-8.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "5",
-    "title": "The Hacker's Dictionary The Hacker's Dictionary",
-    "authors": "—",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-cust-230.jpg",
-    "source_url": "https://manybooks.net/titles/anonetext92jargn10.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "6",
-    "title": "The Art of Money Getting The Art of Money Getting",
-    "authors": "P. T. Barnum",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-891.jpg",
-    "source_url": "https://manybooks.net/titles/barnumptetext05barnm10.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "7",
-    "title": "Book of Wise Sayings Book of Wise Sayings",
-    "authors": "W. A. Clouston",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-16646.jpg",
-    "source_url": "https://manybooks.net/titles/cloustonw2113021130-8.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "8",
-    "title": "Chess Strategy Chess Strategy",
-    "authors": "Edward Lasker",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-cust-4256.jpg",
-    "source_url": "https://manybooks.net/titles/laskeredetext04chsst10.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "9",
-    "title": "The New Hacker's Dictionary The New Hacker's Dictionary",
-    "authors": "Eric S. Raymond",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-297.jpg",
-    "source_url": "https://manybooks.net/titles/anonetext02jarg422.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "10",
-    "title": "One Thousand Secrets of Wise and Rich Men Revealed One Thousand Secrets of Wise and Rich Men Revealed",
-    "authors": "C. A. Bogardus",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-22207.jpg",
-    "source_url": "https://manybooks.net/titles/bogardusc2675426754-8.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "11",
-    "title": "Business Hints for Men and Women Business Hints for Men and Women",
-    "authors": "Alfred Rochefort Calhoun",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-1493.jpg",
-    "source_url": "https://manybooks.net/titles/calhounaetext04bh4mw10.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "12",
-    "title": "The Jargon File The Jargon File",
-    "authors": "Eric S. Raymond",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-15892.jpg",
-    "source_url": "https://manybooks.net/titles/raymondericetext02jarg422.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "13",
-    "title": "How to Live on 24 Hours a Day How to Live on 24 Hours a Day",
-    "authors": "Arnold Bennett",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-cust-1017.jpg",
-    "source_url": "https://manybooks.net/titles/bennettaetext0024hrs10.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "14",
-    "title": "Chess and Checkers: The Way to Mastership Chess and Checkers: The Way to Mastership",
-    "authors": "Edward Lasker",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-cust-4255.jpg",
-    "source_url": "https://manybooks.net/titles/laskeredetext04lchch10.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "15",
-    "title": "Japanese Fairy Tales Japanese Fairy Tales",
-    "authors": "Yei Theodora Ozaki",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-5405.jpg",
-    "source_url": "https://manybooks.net/titles/ozakiyeietext03jpnft10.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "16",
-    "title": "The Age of Fable The Age of Fable",
-    "authors": "Thomas Bulfinch",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-1299.jpg",
-    "source_url": "https://manybooks.net/titles/bullfincetext04thgff10.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "17",
-    "title": "The Book of Household Management The Book of Household Management",
-    "authors": "Isabella Mary Beeton",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-17045.jpg",
-    "source_url": "https://manybooks.net/titles/beetoni1013610136-8.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "18",
-    "title": "A Manual of the Operations of Surgery A Manual of the Operations of Surgery",
-    "authors": "Joseph Bell",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-20028.jpg",
-    "source_url": "https://manybooks.net/titles/belljoe2456424564-8.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "19",
-    "title": "The Golden Sayings of Epictetus The Golden Sayings of Epictetus",
-    "authors": "Epictetus",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-2513.jpg",
-    "source_url": "https://manybooks.net/titles/epictetuetext97epict11.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "20",
-    "title": "Five Hundred Mistakes of Daily Occurrence in Speaking,… Five Hundred Mistakes of Daily Occurrence in Speaking,…",
-    "authors": "Walton Burgess",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-27122.jpg",
-    "source_url": "https://manybooks.net/titles/anonymous3176631766-8.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "21",
-    "title": "The 2007 CIA World Factbook The 2007 CIA World Factbook",
-    "authors": "United States. Central Intelligence Agency",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-22730.jpg",
-    "source_url": "https://manybooks.net/titles/uscia2734827348.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "22",
-    "title": "Familiar Quotations Familiar Quotations",
-    "authors": "—",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-23244.jpg",
-    "source_url": "https://manybooks.net/titles/bartlettj2788927889-8.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "23",
-    "title": "The 2002 CIA World Factbook The 2002 CIA World Factbook",
-    "authors": "United States. Central Intelligence Agency",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-7104.jpg",
-    "source_url": "https://manybooks.net/titles/usciaetext04world02.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "24",
-    "title": "Cozy Mysteries Cookbook Cozy Mysteries Cookbook",
-    "authors": "Hope Callaghan",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/Cook_20Book.jpg",
-    "source_url": "https://manybooks.net/titles/cozy-mysteries-cookbook",
     "manybooks_download_url": "",
     "manybooks_format": "EPUB"
   }

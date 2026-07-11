@@ -1,7 +1,7 @@
 [
   {
     "rank": "1",
-    "title": "The Power of Concentration The Power of Concentration",
+    "title": "The Power of Concentration",
     "authors": "Theron Q. Dumont",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-2388.jpg",
     "source_url": "https://manybooks.net/titles/dumontthetext98prcon10.html",
@@ -10,7 +10,7 @@
   },
   {
     "rank": "2",
-    "title": "No Orchids for Miss Blandish No Orchids for Miss Blandish",
+    "title": "No Orchids for Miss Blandish",
     "authors": "James Hadley Chase",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-21936.jpg",
     "source_url": "https://manybooks.net/titles/chasejother08Blandish.html",
@@ -19,187 +19,7 @@
   },
   {
     "rank": "3",
-    "title": "The Thirty-Nine Steps The Thirty-Nine Steps",
-    "authors": "John Buchan",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-1285.jpg",
-    "source_url": "https://manybooks.net/titles/buchanjoetext9639stp10.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "4",
-    "title": "Clairvoyance and Occult Powers Clairvoyance and Occult Powers",
-    "authors": "William Walker Atkinson",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-12747.jpg",
-    "source_url": "https://manybooks.net/titles/panchadasis1248012480.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "5",
-    "title": "King Solomon's Mines King Solomon's Mines",
-    "authors": "H. Rider Haggard",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-3114.jpg",
-    "source_url": "https://manybooks.net/titles/haggardhetext008kslm10.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "6",
-    "title": "The Angel of Terror The Angel of Terror",
-    "authors": "Edgar Wallace",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-17037.jpg",
-    "source_url": "https://manybooks.net/titles/wallaceedga2153021530-8.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "7",
-    "title": "At the Earth's Core At the Earth's Core",
-    "authors": "Edgar Rice Burroughs",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-1387.jpg",
-    "source_url": "https://manybooks.net/titles/burroughseetext96atcor11.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "8",
-    "title": "Captain Blood Captain Blood",
-    "authors": "Rafael Sabatini",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-6054.jpg",
-    "source_url": "https://manybooks.net/titles/sabatinietext99cpbld11.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "9",
-    "title": "813 813",
-    "authors": "Maurice LeBlanc",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-25628.jpg",
-    "source_url": "https://manybooks.net/titles/leblancmother09813.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "10",
-    "title": "Arson Plus Arson Plus",
-    "authors": "Dashiell Hammett",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-10146.jpg",
-    "source_url": "https://manybooks.net/titles/hammettdother05arson_plus.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "11",
-    "title": "Jack O'Judgment Jack O'Judgment",
-    "authors": "Edgar Wallace",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-20248.jpg",
-    "source_url": "https://manybooks.net/titles/wallaceedga2476724767-8.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "12",
-    "title": "Color Out of Space Color Out of Space",
-    "authors": "H. P. Lovecraft",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-27854.jpg",
-    "source_url": "https://manybooks.net/titles/lovecrafthother10Color_out_of_space.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "13",
-    "title": "Alcatraz Alcatraz",
-    "authors": "Max Brand",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-cust-8177.jpg",
-    "source_url": "https://manybooks.net/titles/brandmax11191119511195-8.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "14",
-    "title": "The Trained Memory The Trained Memory",
-    "authors": "Warren Hilton",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-12905.jpg",
-    "source_url": "https://manybooks.net/titles/hiltonw1782917829.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "15",
-    "title": "The Galaxy Primes The Galaxy Primes",
-    "authors": "Edward Elmer Smith",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-16381.jpg",
-    "source_url": "https://manybooks.net/titles/smithee2089820898.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "16",
-    "title": "The Avenger The Avenger",
-    "authors": "E. Phillips Oppenheim",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-11827.jpg",
-    "source_url": "https://manybooks.net/titles/oppenheietext067vngr10.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "17",
-    "title": "The Skylark of Space The Skylark of Space",
-    "authors": "Lee Hawkins Garby / Edward Elmer Smith",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-16339.jpg",
-    "source_url": "https://manybooks.net/titles/smithee2086920869-8.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "18",
-    "title": "The Clue of the Silver Key The Clue of the Silver Key",
-    "authors": "Edgar Wallace",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-21395.jpg",
-    "source_url": "https://manybooks.net/titles/wallaceedgaother08Clue_of_the_Silver_Key.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "19",
-    "title": "The Door Through Space The Door Through Space",
-    "authors": "Marion Zimmer Bradley",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-15166.jpg",
-    "source_url": "https://manybooks.net/titles/bradleymz1972619726-8.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "20",
-    "title": "Anna the Adventuress Anna the Adventuress",
-    "authors": "E. Phillips Oppenheim",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-22034.jpg",
-    "source_url": "https://manybooks.net/titles/oppenhei2659626596-8.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "21",
-    "title": "Dead Men's Money Dead Men's Money",
-    "authors": "J. S. Fletcher",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-cust-8523.jpg",
-    "source_url": "https://manybooks.net/titles/fletcherjs12231223912239.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "22",
-    "title": "Blind Love Blind Love",
-    "authors": "Wilkie Collins",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-1787.jpg",
-    "source_url": "https://manybooks.net/titles/collinswetext05blind10.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "23",
-    "title": "The Thirty-Nine Steps The Thirty-Nine Steps",
+    "title": "The Thirty-Nine Steps",
     "authors": "John Buchan",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-1285.jpg",
     "source_url": "https://manybooks.net/titles/buchanjoetext9639stp10.html",

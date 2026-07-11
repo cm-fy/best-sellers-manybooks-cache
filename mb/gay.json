@@ -1,7 +1,7 @@
 [
   {
     "rank": "1",
-    "title": "Kim Kim",
+    "title": "Kim",
     "authors": "Rudyard Kipling",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-4141.jpg",
     "source_url": "https://manybooks.net/titles/kiplingretext00kimrk12.html",
@@ -10,7 +10,7 @@
   },
   {
     "rank": "2",
-    "title": "Bliss Bliss",
+    "title": "Bliss",
     "authors": "Katherine Mansfield",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-15971.jpg",
     "source_url": "https://manybooks.net/titles/mansfielother07bliss.html",
@@ -19,190 +19,10 @@
   },
   {
     "rank": "3",
-    "title": "Billy Budd Billy Budd",
+    "title": "Billy Budd",
     "authors": "Herman Melville",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-26723.jpg",
     "source_url": "https://manybooks.net/titles/melvilleother10billy_budd.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "4",
-    "title": "The Moon and Sixpence The Moon and Sixpence",
-    "authors": "W. Somerset Maugham",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-4760.jpg",
-    "source_url": "https://manybooks.net/titles/maughamwetext95moona10.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "5",
-    "title": "The Garden Party The Garden Party",
-    "authors": "Katherine Mansfield",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-4703.jpg",
-    "source_url": "https://manybooks.net/titles/mansfieletext98gprty10.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "6",
-    "title": "Father Goriot Father Goriot",
-    "authors": "Honoré de Balzac",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-791.jpg",
-    "source_url": "https://manybooks.net/titles/balzachoetext98frgrt11.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "7",
-    "title": "Winter Trials (Northern Witch #1) Winter Trials (Northern Witch #1)",
-    "authors": "K.S. Marsden",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/ebook.jpg",
-    "source_url": "https://manybooks.net/titles/winter-trials-northern-witch-1",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "8",
-    "title": "Three Lives Three Lives",
-    "authors": "Gertrude Stein",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-10054.jpg",
-    "source_url": "https://manybooks.net/titles/steing15401540815408.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "9",
-    "title": "Eve and David Eve and David",
-    "authors": "Honoré de Balzac",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-787.jpg",
-    "source_url": "https://manybooks.net/titles/balzachoetext99evdvd10.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "10",
-    "title": "David Blaize David Blaize",
-    "authors": "E. F. Benson",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-29363.jpg",
-    "source_url": "https://manybooks.net/titles/bensonefother10Blaize.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "11",
-    "title": "Lost Illusions Lost Illusions",
-    "authors": "Honoré de Balzac",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-8944.jpg",
-    "source_url": "https://manybooks.net/titles/balzacho13151315913159.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "12",
-    "title": "Scenes from a Courtesan's Life Scenes from a Courtesan's Life",
-    "authors": "Honoré de Balzac",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-11570.jpg",
-    "source_url": "https://manybooks.net/titles/balzacho16601660.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "13",
-    "title": "Concerning the Eccentricities of Cardinal Pirelli Concerning the Eccentricities of Cardinal Pirelli",
-    "authors": "Ronald Firbank",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-29600.jpg",
-    "source_url": "https://manybooks.net/titles/firbankrother10firbankr-cardinalpirelli-00-t.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "14",
-    "title": "South Wind South Wind",
-    "authors": "Norman Douglas",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-2272.jpg",
-    "source_url": "https://manybooks.net/titles/douglasnetext03stwnd10.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "15",
-    "title": "Ioläus Ioläus",
-    "authors": "Edward Carpenter",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-26730.jpg",
-    "source_url": "https://manybooks.net/titles/carpentereother10Iolaus.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "16",
-    "title": "Without Hesitation Without Hesitation",
-    "authors": "Talia Jager",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/wh.jpg",
-    "source_url": "https://manybooks.net/titles/without-hesitation",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "17",
-    "title": "Pointed Roofs Pointed Roofs",
-    "authors": "Dorothy Miller Richardson",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-25656.jpg",
-    "source_url": "https://manybooks.net/titles/richardsond30193019.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "18",
-    "title": "The Invader The Invader",
-    "authors": "Margaret L. Woods",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-23524.jpg",
-    "source_url": "https://manybooks.net/titles/woodsm2816228162-8.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "19",
-    "title": "Bonds of Hate Bonds of Hate",
-    "authors": "Andrew Ashling",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/bondsofhate.jpg",
-    "source_url": "https://manybooks.net/titles/bonds-of-hate",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "20",
-    "title": "Forbidden Rock and Roll Forbidden Rock and Roll",
-    "authors": "Polina Krymskaya",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/91LcpnbmCpL._SL1500_.jpg",
-    "source_url": "https://manybooks.net/titles/forbidden-rock-and-roll",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "21",
-    "title": "Forbidden Rock and Roll Forbidden Rock and Roll",
-    "authors": "Polina Krymskaya",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/91LcpnbmCpL._SL1500_.jpg",
-    "source_url": "https://manybooks.net/titles/forbidden-rock-and-roll",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "22",
-    "title": "Without Hesitation Without Hesitation",
-    "authors": "Talia Jager",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/wh.jpg",
-    "source_url": "https://manybooks.net/titles/without-hesitation",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "23",
-    "title": "Winter Trials (Northern Witch #1) Winter Trials (Northern Witch #1)",
-    "authors": "K.S. Marsden",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/ebook.jpg",
-    "source_url": "https://manybooks.net/titles/winter-trials-northern-witch-1",
     "manybooks_download_url": "",
     "manybooks_format": "EPUB"
   }
