@@ -361,6 +361,7 @@ def fetch_book_details(books, playwright_ctx=None, delay_range=(2.0, 5.0), max_b
 
     import asyncio
     import random
+    import threading
     from playwright.async_api import async_playwright
 
     async def _run(ctx):
@@ -394,18 +395,41 @@ def fetch_book_details(books, playwright_ctx=None, delay_range=(2.0, 5.0), max_b
             finally:
                 await browser.close()
 
+    def _run_in_thread():
+        # Run the async Playwright work in a brand-new thread with its own
+        # isolated event loop.  This sidesteps the "Sync API inside asyncio
+        # loop" error that some CI runners raise when an event loop is already
+        # running in the host process (Playwright's async init detects it).
+        loop = asyncio.new_event_loop()
+        try:
+            asyncio.set_event_loop(loop)
+            return loop.run_until_complete(_run_owned())
+        finally:
+            try:
+                asyncio.set_event_loop(None)
+            except Exception:
+                pass
+            loop.close()
+
     try:
         if playwright_ctx is not None:
-            # Caller owns the context; run inside their loop if present.
-            try:
-                loop = asyncio.get_running_loop()
-            except RuntimeError:
-                loop = None
-            if loop is not None:
-                return loop.run_until_complete(_run(playwright_ctx))
-            return asyncio.run(_run(playwright_ctx))
+            # Caller owns the context; run in an isolated thread too.
+            def _run_owned_ctx():
+                loop = asyncio.new_event_loop()
+                try:
+                    asyncio.set_event_loop(loop)
+                    return loop.run_until_complete(_run(playwright_ctx))
+                finally:
+                    try:
+                        asyncio.set_event_loop(None)
+                    except Exception:
+                        pass
+                    loop.close()
+            _run_owned_ctx()
+            return books
         else:
-            return asyncio.run(_run_owned())
+            _run_in_thread()
+            return books
     except Exception:
         return books
 
