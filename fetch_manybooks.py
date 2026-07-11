@@ -185,12 +185,24 @@ def _extract_books(html, source_url, cover_dir='', cover_base_url=''):
     if not nodes:
         nodes = root.xpath('//article[contains(concat(" ", normalize-space(@class), " "), " book ")]')
     for node in nodes:
+        # Prefer the title inside .content (the hover duplicate is ignored).
         title_node = node.xpath(
-            './/div[contains(concat(" ", normalize-space(@class), " "), " field--name-field-title ")]'
+            './/div[contains(concat(" ", normalize-space(@class), " "), " content ")]'
+            '//div[contains(concat(" ", normalize-space(@class), " "), " field--name-field-title ")]'
             '//a/text()')
         if not title_node:
+            title_node = node.xpath(
+                './/div[contains(concat(" ", normalize-space(@class), " "), " field--name-field-title ")]'
+                '//a/text()')
+        if not title_node:
             title_node = node.xpath('.//a[@hreflang]/text()')
-        title = ' '.join(t.strip() for t in title_node).strip()
+        # De-duplicate repeated text nodes (e.g. cover alt + title link).
+        seen = []
+        for t in title_node:
+            t = t.strip()
+            if t and t not in seen:
+                seen.append(t)
+        title = ' '.join(seen).strip()
         hrefs = node.xpath('.//a[contains(@href, "/titles/")]/@href')
         book_url = hrefs[0] if hrefs else ''
         if book_url and not book_url.startswith('http'):
