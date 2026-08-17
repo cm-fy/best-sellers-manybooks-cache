@@ -172,6 +172,24 @@
   },
   {
     "rank": "20",
+    "title": "Echoes Rising",
+    "authors": "Sandra Boyle",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/61ukauOWE-L._SL1500__0.jpg",
+    "source_url": "https://manybooks.net/titles/echoes-rising",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "21",
+    "title": "The Ranch went Quiet",
+    "authors": "Sandra Boyle",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover_md.jpg",
+    "source_url": "https://manybooks.net/titles/the-ranch-went-quiet",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "22",
     "title": "The Asteroid Heist",
     "authors": "Rex Hurst",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/71SDXK_2BFCUL._SL1500_.jpg",
@@ -180,7 +198,7 @@
     "manybooks_format": "EPUB"
   },
   {
-    "rank": "21",
+    "rank": "23",
     "title": "Hidden City",
     "authors": "M S Lawson",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/08d1e7f9-199e-48f3-91e7-f5d2a1473026.jpg",
@@ -189,7 +207,7 @@
     "manybooks_format": "EPUB"
   },
   {
-    "rank": "22",
+    "rank": "24",
     "title": "Playing in The Rain",
     "authors": "Sandra. J. Jackson",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/91Ab0EH10BL._SL1500_.jpg",
@@ -198,7 +216,7 @@
     "manybooks_format": "EPUB"
   },
   {
-    "rank": "23",
+    "rank": "25",
     "title": "Dawn of Rebellion",
     "authors": "Michelle Lynn",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/91HfHF_2BFNKL._SL1500_.jpg",
@@ -207,7 +225,7 @@
     "manybooks_format": "EPUB"
   },
   {
-    "rank": "24",
+    "rank": "26",
     "title": "Blackwing",
     "authors": "Stephen Drake",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/91KbzQkmoUL._SL1500_.jpg",
@@ -216,7 +234,7 @@
     "manybooks_format": "EPUB"
   },
   {
-    "rank": "25",
+    "rank": "27",
     "title": "28 Days",
     "authors": "Sue Parritt",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/81KTtaZUNbS._SL1500_.jpg",
@@ -225,7 +243,7 @@
     "manybooks_format": "EPUB"
   },
   {
-    "rank": "26",
+    "rank": "28",
     "title": "Genesis",
     "authors": "Nicolette Fuller",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/81Ug4hbbK2L._SL1500_.jpg",
@@ -234,7 +252,7 @@
     "manybooks_format": "EPUB"
   },
   {
-    "rank": "27",
+    "rank": "29",
     "title": "War Of The Animals",
     "authors": "Jonathan DeCoteau",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/8157SgW4qjL._SL1500_.jpg",
@@ -243,7 +261,7 @@
     "manybooks_format": "EPUB"
   },
   {
-    "rank": "28",
+    "rank": "30",
     "title": "When Totems Fall",
     "authors": "Wayne C Stewart",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/41inUaUyziL.jpg",
@@ -252,29 +270,11 @@
     "manybooks_format": "EPUB"
   },
   {
-    "rank": "29",
+    "rank": "31",
     "title": "Desa Kincaid - Bounty Hunter",
     "authors": "R.S. Penney",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/51QR6kx0DrL.jpeg",
     "source_url": "https://manybooks.net/titles/desa-kincaid-bounty-hunter",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "30",
-    "title": "Firmament: Radialloy",
-    "authors": "J. Grace Pennington",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/512sIyTDRYL.jpeg",
-    "source_url": "https://manybooks.net/titles/firmament-radialloy",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "31",
-    "title": "Call of the Goddess",
-    "authors": "Elizabeth N. Love",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/51Z_2B20GyV6L.jpeg",
-    "source_url": "https://manybooks.net/titles/call-of-the-goddess",
     "manybooks_download_url": "",
     "manybooks_format": "EPUB"
   }
