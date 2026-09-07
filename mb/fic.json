@@ -199,6 +199,24 @@
   },
   {
     "rank": "23",
+    "title": "The Meaning of Androsia",
+    "authors": "Eric Bush",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/71ptosLYoRL._SL1360_.jpg",
+    "source_url": "https://manybooks.net/titles/the-meaning-of-androsia",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "24",
+    "title": "Grandfather's Pigments",
+    "authors": "Leo Di Lux",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/91usobRecxL._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/grandfathers-pigments",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "25",
     "title": "Little Lost Girl",
     "authors": "Graham Wilson",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/912FzEOfHuL._SL1500_.jpg",
@@ -207,7 +225,7 @@
     "manybooks_format": "EPUB"
   },
   {
-    "rank": "24",
+    "rank": "26",
     "title": "Chasing Caitlyn",
     "authors": "Marnie Cate",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/91gUcs6NwEL._SL1500_.jpg",
@@ -216,7 +234,7 @@
     "manybooks_format": "EPUB"
   },
   {
-    "rank": "25",
+    "rank": "27",
     "title": "Reunion",
     "authors": "Chris Vobe",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/81CCjsWEHYL._SL1500_.jpg",
@@ -225,7 +243,7 @@
     "manybooks_format": "EPUB"
   },
   {
-    "rank": "26",
+    "rank": "28",
     "title": "No Room For Regret",
     "authors": "Janeen Ann O'Connell",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/81hak1VUzmL._SL1500_.jpg",
@@ -234,7 +252,7 @@
     "manybooks_format": "EPUB"
   },
   {
-    "rank": "27",
+    "rank": "29",
     "title": "The Legend Is Born",
     "authors": "Gerald Knight",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/51afeKdygtL.jpg",
@@ -243,7 +261,7 @@
     "manybooks_format": "EPUB"
   },
   {
-    "rank": "28",
+    "rank": "30",
     "title": "Olivia, Mourning",
     "authors": "Yael Politis",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/A1HwyYcs8uL._SL1500_.jpg",
@@ -252,7 +270,7 @@
     "manybooks_format": "EPUB"
   },
   {
-    "rank": "29",
+    "rank": "31",
     "title": "The Oldest Word",
     "authors": "Johnny Firic",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/41PpXWP5sWL.jpg",
@@ -261,7 +279,7 @@
     "manybooks_format": "EPUB"
   },
   {
-    "rank": "30",
+    "rank": "32",
     "title": "Paycheck to Paycheck",
     "authors": "Kirk Alex",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/5110BXofmCL.jpg",
@@ -270,7 +288,7 @@
     "manybooks_format": "EPUB"
   },
   {
-    "rank": "31",
+    "rank": "33",
     "title": "High Plains Holiday",
     "authors": "Simone Beaudelaire",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/514cFos_2BVZL.jpeg",
@@ -279,29 +297,11 @@
     "manybooks_format": "EPUB"
   },
   {
-    "rank": "32",
+    "rank": "34",
     "title": "Fly Away Home",
     "authors": "Dave Cenker",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/fly_0.jpg",
     "source_url": "https://manybooks.net/titles/fly-away-home",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "33",
-    "title": "From Across the Room",
-    "authors": "Gina L. Mulligan",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/fromacrosstheroom.jpg",
-    "source_url": "https://manybooks.net/titles/from-across-the-room",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "34",
-    "title": "The Size of Your Dreams",
-    "authors": "Dave Mason",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/size.jpg",
-    "source_url": "https://manybooks.net/titles/the-size-of-your-dreams",
     "manybooks_download_url": "",
     "manybooks_format": "EPUB"
   }
