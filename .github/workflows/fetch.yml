@@ -10,7 +10,7 @@ on:
         description: 'Also crawl each book detail page for blurb/excerpt/published/pages/downloads (MB_DETAILS=1). Slower and heavier — only enable when you want to refresh enrichment data.'
         type: boolean
         required: false
-        default: false
+        default: true
       enrich_max:
         description: 'Max detail pages to crawl per category (MB_DETAILS_MAX).'
         type: string
@@ -42,7 +42,7 @@ jobs:
       - name: Fetch category lists
         env:
           MB_COOKIE: ${{ secrets.MB_COOKIE }}
-          MB_DETAILS: ${{ github.event.inputs.enrich == 'true' && '1' || '' }}
+          MB_DETAILS: ${{ github.event.inputs.enrich == 'false' && '' || '1' }}
           MB_DETAILS_MAX: ${{ github.event.inputs.enrich_max || '50' }}
         run: python3 fetch_manybooks.py
 

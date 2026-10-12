@@ -317,8 +317,34 @@ def _extract_detail(html):
         digits = re.sub(r'[^\d]', '', text or '')
         return int(digits) if digits else ''
 
+    def _field_excerpt():
+        nodes = root.xpath(
+            '//div[contains(concat(" ", normalize-space(@class), " "), " field--name-field-excerpt ")]')
+        if not nodes:
+            return ''
+        node = nodes[0]
+        parts = []
+        if node.text and node.text.strip():
+            parts.append(' '.join(node.text.split()).strip())
+        for child in node:
+            if child.tag == 'p':
+                t = ' '.join((child.text_content() or '').split()).strip()
+                if t:
+                    parts.append(t)
+            elif child.tag == 'br':
+                pass
+            else:
+                t = ' '.join((child.text_content() or '').split()).strip()
+                if t:
+                    parts.append(t)
+            if child.tail and child.tail.strip():
+                parts.append(' '.join(child.tail.split()).strip())
+        if parts:
+            return '\n\n'.join(parts)
+        return ' '.join((node.text_content() or '').split()).strip()
+
     blurb = _field_text('field-description')
-    excerpt = _field_text('field-excerpt')
+    excerpt = _field_excerpt()
     published = _int(_field_text('field-published-year'))
     pages = _int(_field_text('field-pages'))
     downloads = _int(_field_text('field-downloads'))
@@ -357,9 +383,12 @@ def fetch_book_details(books, playwright_ctx=None, delay_range=(2.0, 5.0), max_b
     if not books:
         return books
     # Cap how many detail pages we CRAWL, but never truncate the returned list
-    # (the caller writes it to cache — truncating would lose books).  We crawl
-    # at most ``max_books`` and leave the rest untouched.
-    crawl_books = books if max_books is None else books[:max_books]
+    # (the caller writes it to cache — truncating would lose books).  Only crawl
+    # books that lack details, capping at ``max_books`` so runs stay polite.
+    needed = [b for b in books if not (b.get('blurb') and b.get('excerpt'))]
+    crawl_books = needed if max_books is None else needed[:max_books]
+    if not crawl_books:
+        return books
 
     import asyncio
     import random
@@ -478,11 +507,26 @@ def main():
     for slug, label, code in CATEGORIES:
         books, err = fetch_category(slug, code, sort_by_downloads=False,
                                     cover_dir=cover_dir, cover_base_url=cover_base_url)
+        path = os.path.join(out_dir, slug + '.json')
+        # Merge existing cached enrichment fields so we don't re-crawl known books
+        if books and os.path.exists(path) and os.path.getsize(path) > 2:
+            try:
+                with open(path, encoding='utf-8') as _f:
+                    existing = json.load(_f)
+                    if isinstance(existing, list):
+                        by_url = {b.get('source_url'): b for b in existing if isinstance(b, dict) and b.get('source_url')}
+                        for b in books:
+                            prior = by_url.get(b.get('source_url'))
+                            if prior:
+                                for k in ('blurb', 'excerpt', 'published', 'pages', 'downloads'):
+                                    if prior.get(k) and not b.get(k):
+                                        b[k] = prior[k]
+            except Exception:
+                pass
         if enrich_details and books:
             # Cap detail crawls per category so a single run stays polite.
             max_details = int(os.environ.get('MB_DETAILS_MAX', '50'))
             books = fetch_book_details(books, max_books=max_details)
-        path = os.path.join(out_dir, slug + '.json')
         # Defensive: never overwrite a previously-populated cache file with an
         # empty result (e.g. when Cloudflare blocks the fetch or Playwright
         # fails).  Keep the last good data so the plugin never sees a wiped list.
