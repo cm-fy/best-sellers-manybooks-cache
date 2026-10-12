@@ -130,29 +130,13 @@ def _decode_html(text):
 
 
 def _session():
-    """Return an HTTP session. Prefers Playwright when available so the
-    Cloudflare challenge can be solved; otherwise falls back to requests with an
-    optional cookie.
-
-    Playwright's Sync API can raise at start time in some environments (e.g.
-    "Sync API inside asyncio loop"), so we actually start it here and fall back
-    to requests on ANY failure — not just on import error.
-    """
-    try:
-        from playwright.sync_api import sync_playwright
-        pw = sync_playwright().start()
-        # Smoke-test that the browser can launch; if not, fall back.
-        browser = pw.chromium.launch(headless=True)
-        browser.close()
-        return ('playwright', pw)
-    except Exception as e:
-        print('Playwright unavailable ({}), falling back to requests.'.format(e))
-        import requests
-        s = requests.Session()
-        s.headers.update(HEADERS)
-        if COOKIE:
-            s.headers['Cookie'] = COOKIE
-        return ('requests', s)
+    """Return an HTTP session for category pages using requests."""
+    import requests
+    s = requests.Session()
+    s.headers.update(HEADERS)
+    if COOKIE:
+        s.headers['Cookie'] = COOKIE
+    return ('requests', s)
 
 
 def _fetch_html(target, url):
@@ -428,40 +412,53 @@ def fetch_book_details(books, playwright_ctx=None, delay_range=(2.0, 5.0), max_b
 
     def _run_in_thread():
         # Run the async Playwright work in a brand-new thread with its own
-        # isolated event loop.  This sidesteps the "Sync API inside asyncio
-        # loop" error that some CI runners raise when an event loop is already
-        # running in the host process (Playwright's async init detects it).
-        loop = asyncio.new_event_loop()
-        try:
+        # isolated event loop. This guarantees isolation from any host loop.
+        res = [books]
+        err_box = [None]
+        def _target():
+            loop = asyncio.new_event_loop()
             asyncio.set_event_loop(loop)
-            return loop.run_until_complete(_run_owned())
-        finally:
             try:
-                asyncio.set_event_loop(None)
-            except Exception:
-                pass
-            loop.close()
+                res[0] = loop.run_until_complete(_run_owned())
+            except Exception as e:
+                err_box[0] = e
+            finally:
+                try:
+                    asyncio.set_event_loop(None)
+                except Exception:
+                    pass
+                loop.close()
+        t = threading.Thread(target=_target)
+        t.start()
+        t.join()
+        if err_box[0]:
+            print('fetch_book_details thread error: {}'.format(err_box[0]))
+        return res[0]
 
     try:
         if playwright_ctx is not None:
-            # Caller owns the context; run in an isolated thread too.
             def _run_owned_ctx():
-                loop = asyncio.new_event_loop()
-                try:
+                res = [books]
+                def _target():
+                    loop = asyncio.new_event_loop()
                     asyncio.set_event_loop(loop)
-                    return loop.run_until_complete(_run(playwright_ctx))
-                finally:
                     try:
-                        asyncio.set_event_loop(None)
-                    except Exception:
-                        pass
-                    loop.close()
-            _run_owned_ctx()
-            return books
+                        res[0] = loop.run_until_complete(_run(playwright_ctx))
+                    finally:
+                        try:
+                            asyncio.set_event_loop(None)
+                        except Exception:
+                            pass
+                        loop.close()
+                t = threading.Thread(target=_target)
+                t.start()
+                t.join()
+                return res[0]
+            return _run_owned_ctx()
         else:
-            _run_in_thread()
-            return books
-    except Exception:
+            return _run_in_thread()
+    except Exception as e:
+        print('fetch_book_details unhandled error: {}'.format(e))
         return books
 
 
