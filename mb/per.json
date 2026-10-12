@@ -289,15 +289,6 @@
   },
   {
     "rank": "33",
-    "title": "Claimed by the Outlaw",
-    "authors": "Rica Lane",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/71fO39Sy6uL._SL1500_.jpg",
-    "source_url": "https://manybooks.net/titles/claimed-by-the-outlaw",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "34",
     "title": "Sam Says NO!",
     "authors": "Dean R Giles",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/81iVW7uMLUL._SL1500_.jpg",
@@ -306,7 +297,7 @@
     "manybooks_format": "EPUB"
   },
   {
-    "rank": "35",
+    "rank": "34",
     "title": "The Billionaire’s Secret Heart",
     "authors": "Ivy Layne",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/71sVXwszHJL._SL1500_.jpg",
@@ -315,11 +306,20 @@
     "manybooks_format": "EPUB"
   },
   {
-    "rank": "36",
+    "rank": "35",
     "title": "A Convenient Risk",
     "authors": "Sara R Turnquist",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/51XwEhjwGpL._SY445_SX342_.jpg",
     "source_url": "https://manybooks.net/titles/a-convenient-risk",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "36",
+    "title": "The Asteroid Heist",
+    "authors": "Rex Hurst",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/71SDXK_2BFCUL._SL1500_.jpg",
+    "source_url": "https://manybooks.net/titles/the-asteroid-heist",
     "manybooks_download_url": "",
     "manybooks_format": "EPUB"
   }
