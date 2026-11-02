@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-26T08:26:42.843121+00:00",
+  "generated_at": "2026-11-02T10:18:07.482917+00:00",
   "source": "https://manybooks.net/categories",
   "lists": [
     {
       "slug": "adv",
       "label": "Adventure",
       "code": "ADV",
-      "count": 30,
+      "count": 31,
       "status": "ok",
       "error": ""
     },
@@ -150,7 +150,7 @@
       "slug": "fic",
       "label": "Fiction and Literature",
       "code": "FIC",
-      "count": 34,
+      "count": 35,
       "status": "ok",
       "error": ""
     },
@@ -334,7 +334,7 @@
       "slug": "pir",
       "label": "Pirate Tales",
       "code": "PIR",
-      "count": 35,
+      "count": 36,
       "status": "ok",
       "error": ""
     },

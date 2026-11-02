@@ -177,6 +177,15 @@
   },
   {
     "rank": "19",
+    "title": "The Arabian Nights Entertainments",
+    "authors": "Anonymous",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-9.jpg",
+    "source_url": "https://manybooks.net/titles/anonetext04arne110.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "20",
     "title": "The Trojan Treasure Conspiracy",
     "authors": "Bruce Hutchison",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/81BKM4odRLL._SL1500_.jpg",
@@ -185,7 +194,7 @@
     "manybooks_format": "EPUB"
   },
   {
-    "rank": "20",
+    "rank": "21",
     "title": "The Trials of the Core",
     "authors": "Michael E. Thies",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/510Lx9FrvQS.jpg",
@@ -194,7 +203,7 @@
     "manybooks_format": "EPUB"
   },
   {
-    "rank": "21",
+    "rank": "22",
     "title": "Induction",
     "authors": "T.K. Eldridge",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/induction.jpg",
@@ -203,7 +212,7 @@
     "manybooks_format": "EPUB"
   },
   {
-    "rank": "22",
+    "rank": "23",
     "title": "Fire & Water",
     "authors": "Bobbi Schemerhorn",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/51UR0iKDqKL.jpeg",
@@ -212,7 +221,7 @@
     "manybooks_format": "EPUB"
   },
   {
-    "rank": "23",
+    "rank": "24",
     "title": "Bronze Magic",
     "authors": "Jennifer Ealey",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/51R7Hxr7y1L.jpeg",
@@ -221,7 +230,7 @@
     "manybooks_format": "EPUB"
   },
   {
-    "rank": "24",
+    "rank": "25",
     "title": "Marked",
     "authors": "Katrina Cope",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/51Ft01zf3SL._SY346_.jpg",
@@ -230,7 +239,7 @@
     "manybooks_format": "EPUB"
   },
   {
-    "rank": "25",
+    "rank": "26",
     "title": "Dillon Hunt And The Desert Oasis Resort",
     "authors": "Chad Stewart",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/51khmAhhxwL.jpeg",
@@ -239,34 +248,7 @@
     "manybooks_format": "EPUB"
   },
   {
-    "rank": "26",
-    "title": "The Man in the Iron Mask",
-    "authors": "Alexandre Dumas",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-cust-3354.jpg",
-    "source_url": "https://manybooks.net/titles/dumasalpetext01ironm11.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
     "rank": "27",
-    "title": "Around the World in 80 Days",
-    "authors": "Jules Verne",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-7151.jpg",
-    "source_url": "https://manybooks.net/titles/vernejuletext9480day11.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "28",
-    "title": "The Curse of Capistrano",
-    "authors": "Harrington Strong",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-16521.jpg",
-    "source_url": "https://manybooks.net/titles/mcculleyjother07Curse_of_Capistrano.html",
-    "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
-  },
-  {
-    "rank": "29",
     "title": "Gulliver's Travels",
     "authors": "Jonathan Swift",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-cust-6763.jpg",
@@ -275,11 +257,38 @@
     "manybooks_format": "EPUB"
   },
   {
-    "rank": "30",
+    "rank": "28",
     "title": "The Thirty-Nine Steps",
     "authors": "John Buchan",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-1285.jpg",
     "source_url": "https://manybooks.net/titles/buchanjoetext9639stp10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "29",
+    "title": "Robinson Crusoe",
+    "authors": "Daniel Defoe",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-2118.jpg",
+    "source_url": "https://manybooks.net/titles/defoedanetext96rbcru10.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "30",
+    "title": "The Man in the Iron Mask",
+    "authors": "Alexandre Dumas",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-cust-3354.jpg",
+    "source_url": "https://manybooks.net/titles/dumasalpetext01ironm11.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "31",
+    "title": "Around the World in 80 Days",
+    "authors": "Jules Verne",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-7151.jpg",
+    "source_url": "https://manybooks.net/titles/vernejuletext9480day11.html",
     "manybooks_download_url": "",
     "manybooks_format": "EPUB"
   }

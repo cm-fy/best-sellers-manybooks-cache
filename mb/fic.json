@@ -48,7 +48,11 @@
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-cust-6331.jpg",
     "source_url": "https://manybooks.net/titles/shakespeetext94shaks12.html",
     "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
+    "manybooks_format": "EPUB",
+    "blurb": "Every known work of the Bard, in one large volume.",
+    "excerpt": "The world will wail thee like a makeless wife,\n\nThe world will be thy widow and still weep,\n\nThat thou no form of thee hast left behind,\n\nWhen every private widow well may keep,\n\nBy children's eyes, her husband's shape in mind:\n\nLook what an unthrift in the world doth spend\n\nShifts but his place, for still the world enjoys it;\n\nBut beauty's waste hath in the world an end,\n\nAnd kept unused the user so destroys it:\n\nNo love toward others in that bosom sits\n\nThat on himself such murd'rous shame commits.\n\n10 For shame deny that thou bear'st love to any Who for thy self art so unprovident. Grant if thou wilt, thou art beloved of many, But that thou none lov'st is most evident: For thou art so possessed with murd'rous hate, That 'gainst thy self thou stick'st not to conspire, Seeking that beauteous roof to ruinate Which to repair should be thy chief desire: O change thy thought, that I may change my mind, Shall hate be fairer lodged than",
+    "pages": 9,
+    "downloads": 233760
   },
   {
     "rank": "5",
@@ -214,6 +218,15 @@
   },
   {
     "rank": "23",
+    "title": "Great Expectations",
+    "authors": "Charles Dickens",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-cust-2178.jpg",
+    "source_url": "https://manybooks.net/titles/dickenscetext98grexp10a.html",
+    "manybooks_download_url": "",
+    "manybooks_format": "EPUB"
+  },
+  {
+    "rank": "24",
     "title": "The Meaning of Androsia",
     "authors": "Eric Bush",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/71ptosLYoRL._SL1360_.jpg",
@@ -222,7 +235,7 @@
     "manybooks_format": "EPUB"
   },
   {
-    "rank": "24",
+    "rank": "25",
     "title": "Grandfather's Pigments",
     "authors": "Leo Di Lux",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/91usobRecxL._SL1500_.jpg",
@@ -231,7 +244,7 @@
     "manybooks_format": "EPUB"
   },
   {
-    "rank": "25",
+    "rank": "26",
     "title": "Little Lost Girl",
     "authors": "Graham Wilson",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/912FzEOfHuL._SL1500_.jpg",
@@ -240,7 +253,7 @@
     "manybooks_format": "EPUB"
   },
   {
-    "rank": "26",
+    "rank": "27",
     "title": "Chasing Caitlyn",
     "authors": "Marnie Cate",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/91gUcs6NwEL._SL1500_.jpg",
@@ -249,7 +262,7 @@
     "manybooks_format": "EPUB"
   },
   {
-    "rank": "27",
+    "rank": "28",
     "title": "Reunion",
     "authors": "Chris Vobe",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/81CCjsWEHYL._SL1500_.jpg",
@@ -258,7 +271,7 @@
     "manybooks_format": "EPUB"
   },
   {
-    "rank": "28",
+    "rank": "29",
     "title": "No Room For Regret",
     "authors": "Janeen Ann O'Connell",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/81hak1VUzmL._SL1500_.jpg",
@@ -267,7 +280,7 @@
     "manybooks_format": "EPUB"
   },
   {
-    "rank": "29",
+    "rank": "30",
     "title": "The Legend Is Born",
     "authors": "Gerald Knight",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/51afeKdygtL.jpg",
@@ -276,7 +289,7 @@
     "manybooks_format": "EPUB"
   },
   {
-    "rank": "30",
+    "rank": "31",
     "title": "Olivia, Mourning",
     "authors": "Yael Politis",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/A1HwyYcs8uL._SL1500_.jpg",
@@ -285,7 +298,7 @@
     "manybooks_format": "EPUB"
   },
   {
-    "rank": "31",
+    "rank": "32",
     "title": "The Oldest Word",
     "authors": "Johnny Firic",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/41PpXWP5sWL.jpg",
@@ -294,7 +307,7 @@
     "manybooks_format": "EPUB"
   },
   {
-    "rank": "32",
+    "rank": "33",
     "title": "Paycheck to Paycheck",
     "authors": "Kirk Alex",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/5110BXofmCL.jpg",
@@ -303,7 +316,7 @@
     "manybooks_format": "EPUB"
   },
   {
-    "rank": "33",
+    "rank": "34",
     "title": "High Plains Holiday",
     "authors": "Simone Beaudelaire",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/514cFos_2BVZL.jpeg",
@@ -312,7 +325,7 @@
     "manybooks_format": "EPUB"
   },
   {
-    "rank": "34",
+    "rank": "35",
     "title": "Fly Away Home",
     "authors": "Dave Cenker",
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/fly_0.jpg",
