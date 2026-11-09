@@ -62,7 +62,12 @@
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-auto-20811.jpg",
     "source_url": "https://manybooks.net/titles/jarvisdother083D-Modelling.html",
     "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
+    "manybooks_format": "EPUB",
+    "blurb": "Details download and installation instructions for a graphics rendering and modelling development environment using RedHat Linux.",
+    "excerpt": "not these items, but rather the tools used create such items. After all, wire, metal tubes, planks, and bricks don't magically appear; rather they are created and formed as entities unto themselves. On a similar note, graphics don't magically appear on the screen -- typically they consist of lower-level graphics primatives (lines, rectangles, and individual pixels, for example).\n\nSo the graphics library, then, can be thought of as the low-level graphics primatives used to build more complex objects (spheres, boxes, complex polygons, etc.). Those complex objects are then used to build even more complicated shapes and figures.\n\nThe graphics library installed was the freeware implementation of OpenGL called Mesa.\n\n2.2. The Graphics Modeller\n\nSince the graphics renderer is, ideally, completely hidden from the end-user, we'll deal with that last (besides which, modelling is the next logical step in keeping with my house-building analogy). However, when it comes to the actual i",
+    "published": 2001,
+    "pages": 36,
+    "downloads": 27609
   },
   {
     "rank": "6",
