@@ -61,7 +61,11 @@
     "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-3050.jpg",
     "source_url": "https://manybooks.net/titles/grimmetext01grimm10.html",
     "manybooks_download_url": "",
-    "manybooks_format": "EPUB"
+    "manybooks_format": "EPUB",
+    "blurb": "Based on translations of Kinder und Hausmarchen by Edgar Taylor and Marian Edwardes.",
+    "excerpt": "ing at the window where the merrymaking was, and called to him to come in; and he could not withstand the temptation, but went in, and forgot the golden bird and his country in the same manner.\n\nTime passed on again, and the youngest son too wished to set out into the wide world to seek for the golden bird; but his father would not listen to it for a long while, for he was very fond of his son, and was afraid that some ill luck might happen to him also, and prevent his coming back. However, at last it was agreed he should go, for he would not rest at home; and as he came to the wood, he met the fox, and heard the same good counsel. But he was thankful to the fox, and did not attempt his life as his brothers had done; so the fox said, 'Sit upon my tail, and you will travel faster.' So he sat down, and the fox began to run, and away they went over stock and stone so quick that their hair whistled in the wind.\n\nWhen they came to the village, the son followed the fox's counsel, and without looking about him w",
+    "pages": 238,
+    "downloads": 58534
   },
   {
     "rank": "6",
@@ -299,16 +303,15 @@
   },
   {
     "rank": "32",
-    "title": "Dracula",
-    "authors": "Bram Stoker",
-    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-orig-6694.jpg",
-    "source_url": "https://manybooks.net/titles/stokerbretext95dracu12.html",
+    "title": "Collected Works of Poe",
+    "authors": "Edgar Allan Poe",
+    "cover_url": "https://cm-fy.github.io/best-sellers-manybooks-cache/mb/covers/cover-cust-5719.jpg",
+    "source_url": "https://manybooks.net/titles/poeedgaretext00poe1v10.html",
     "manybooks_download_url": "",
     "manybooks_format": "EPUB",
-    "blurb": "The world's best-known vampire story begins by following a naive young Englishman as he visits Transylvania to meet a client, the mysterious Count Dracula. Upon revealing his true nature, Dracula boards a ship for England, where chilling and gruesome disasters begin to befall the people of London...",
-    "excerpt": "ll and opened up the lofty, snow-covered peak of a mountain, which seemed, as we wound on our serpentine way, to be right before us.\n\n\"Look! Isten szek!\"--\"God's seat!\"--and he crossed himself reverently.\n\nAs we wound on our endless way, and the sun sank lower and lower behind us, the shadows of the evening began to creep round us. This was emphasized by the fact that the snowy mountain-top still held the sunset, and seemed to glow out with a delicate cool pink. Here and there we passed Cszeks and slovaks, all in picturesque attire, but I noticed that goitre was painfully prevalent. By the roadside were many crosses, and as we swept by, my companions all crossed themselves. Here and there was a peasant man or woman kneeling before a shrine, who did not even turn round as we approached, but seemed in the self-surrender of devotion to have neither eyes nor ears for the outer world. There were many things new to me. For instance, hay-ricks in the trees, and here and there very beautiful masses of wee",
-    "published": 1897,
-    "pages": 347,
-    "downloads": 168946
+    "blurb": "Edgar Allan Poe, An Appreciation Life of Poe, by James Russell Lowell Death of Poe, by N. P. Willis The Unparalled Adventures of One Hans Pfall The Gold Bug Four Beasts in One The Murders in the Rue Morgue (Audio version) The Mystery of Marie Rogêt The Balloon Hoax MS. Found in a Bottle The Oval Portrait",
+    "excerpt": "ly analyzing the mysteries of the human mind; such tales of illusion and banter as \"The Premature Burial\" and \"The System of Dr. Tarr and Professor Fether\"; such bits of extravaganza as \"The Devil in the Belfry\" and \"The Angel of the Odd\"; such tales of adventure as \"The Narrative of Arthur Gordon Pym\"; such papers of keen criticism and review as won for Poe the enthusiastic admiration of Charles Dickens, although they made him many enemies among the over-puffed minor American writers so mercilessly exposed by him; such poems of beauty and melody as \"The Bells,\" \"The Haunted Palace,\" \"Tamerlane,\" \"The City in the Sea\" and \"The Raven.\" What delight for the jaded senses of the reader is this enchanted domain of wonder-pieces! What an atmosphere of beauty, music, color! What resources of imagination, construction, analysis and absolute art! One might almost sympathize with Sarah Helen Whitman, who, confessing to a half faith in the old superstition of the significance of anagrams, found, in the transposed letter",
+    "pages": 207,
+    "downloads": 117928
   }
 ]
